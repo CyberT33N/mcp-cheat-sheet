@@ -1,6 +1,47 @@
 # mcp-cheat-sheet
 
 
+# Guides
+
+## General
+- https://www.youtube.com/watch?v=kj4eK9ylGDk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+________
+________
+<br><br>
+
+
+
+
 
 # Model Control Protocol (MCP) – Eine Einführung
 
