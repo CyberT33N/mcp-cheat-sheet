@@ -241,6 +241,7 @@ ___
 # List
 - https://glama.ai/mcp/servers
 - https://github.com/punkpeye/awesome-mcp-servers
+- https://github.com/modelcontextprotocol/servers
 
 We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
