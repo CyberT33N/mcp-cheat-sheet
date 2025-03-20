@@ -5,6 +5,7 @@ Diese MCP-Server bieten Standortdienste wie Kartendarstellung, Geocoding und Rou
 ## Verfügbare Server
 
 - [jamespwilliams/mcp-server-google-maps](https://github.com/jamespwilliams/mcp-server-google-maps) 📇 ☁️ - Google Maps integration with geocoding, directions and places API
+- [anthropic/mcp/google-maps](https://github.com/anthropic/mcp/tree/main/src/google-maps) 📇 ☁️ - Standortdienste, Wegbeschreibungen und Ortsinformationen
 - [peterc/what3words-mcp](https://github.com/peterc/what3words-mcp) 🐍 ☁️ - What3Words location system integration for precise global addressing
 - [mapbox/mapbox-mcp-server](https://github.com/mapbox/mapbox-mcp-server) 📇 ☁️ - Mapbox services integration for custom maps and geospatial analysis
 - [hanifalfaqih/mcp-server-openstreetmap](https://github.com/hanifalfaqih/mcp-server-openstreetmap) 🐍 ☁️ - OpenStreetMap integration with open-source mapping data

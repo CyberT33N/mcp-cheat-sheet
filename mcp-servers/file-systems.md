@@ -16,4 +16,7 @@ Diese MCP-Server ermöglichen den Zugriff auf Dateisysteme und Dateioperationen 
 - [@huggingface/huggingface-mcp-server](https://github.com/huggingface/huggingface-mcp-server) 📇 ☁️ - Interact with HuggingFace models and datasets repository
 - [sfriedowitz/mcp-server-sharepoint](https://github.com/sfriedowitz/mcp-server-sharepoint) 🐍 ☁️ - SharePoint integration with document collaboration and versioning
 - [akhirotaka/drive-mcp-server](https://github.com/akhirotaka/drive-mcp-server) 📇 ☁️ - Google Drive access with advanced search and metadata capabilities
-- [lukehoban/onedrive-mcp-server](https://github.com/lukehoban/onedrive-mcp-server) 📇 ☁️ - A Model Context Protocol (MCP) server for accessing OneDrive/SharePoint files 
+- [lukehoban/onedrive-mcp-server](https://github.com/lukehoban/onedrive-mcp-server) 📇 ☁️ - A Model Context Protocol (MCP) server for accessing OneDrive/SharePoint files
+- [anthropic/mcp/filesystem](https://github.com/anthropic/mcp/tree/main/src/filesystem) 📇 🏠 - Sichere Dateioperationen mit konfigurierbaren Zugriffskontrollen
+- [anthropic/mcp/gdrive](https://github.com/anthropic/mcp/tree/main/src/gdrive) 📇 ☁️ - Dateizugriff und Suchfunktionen für Google Drive
+- [box-community/mcp-server-box](https://github.com/box-community/mcp-server-box) 📇 ☁️ - Interact with the Intelligent Content Management platform through Box AI. 

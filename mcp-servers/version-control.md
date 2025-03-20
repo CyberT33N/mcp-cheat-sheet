@@ -13,4 +13,8 @@ Diese MCP-Server ermöglichen die Integration mit Versionskontrollsystemen wie G
 - [atlassian/mcp-server-sourcetree](https://github.com/atlassian/mcp-server-sourcetree) 🐍 🏠 - Sourcetree integration for Git client operations
 - [apache/mcp-server-subversion](https://github.com/apache/mcp-server-subversion) 📇 🏠 - Apache Subversion (SVN) integration for centralized version control
 - [perforce/mcp-server-perforce](https://github.com/perforce/mcp-server-perforce) 🐍 ☁️ - Perforce integration for enterprise version control
-- [mercurial/mcp-server-mercurial](https://github.com/mercurial/mcp-server-mercurial) 📇 🏠 - Mercurial integration for distributed version control 
+- [mercurial/mcp-server-mercurial](https://github.com/mercurial/mcp-server-mercurial) 📇 🏠 - Mercurial integration for distributed version control
+- [anthropic/mcp/git](https://github.com/anthropic/mcp/tree/main/src/git) 📇 🏠 - Tools to read, search, and manipulate Git repositories
+- [anthropic/mcp/github](https://github.com/anthropic/mcp/tree/main/src/github) 📇 ☁️ - Repository management, file operations, and GitHub API integration
+- [anthropic/mcp/gitlab](https://github.com/anthropic/mcp/tree/main/src/gitlab) 📇 ☁️ - GitLab API, enabling project management
+- [oschina/mcp-gitee](https://github.com/oschina/mcp-gitee) 📇 ☁️ - Gitee API integration, repository, issue, and pull request management, and more. 

@@ -8,6 +8,7 @@ Hier finden Sie Ressourcen und Verzeichnisse von MCP-Servern:
 
 Wir haben jetzt ein [webbasiertes Verzeichnis](https://glama.ai/mcp/servers), das mit dem Repository synchronisiert ist.
 
+* 🔬 - [Reference Servers](#reference-servers)
 * 📂 - [Browser Automation](#browser-automation)
 * 🎨 - [Art & Culture](#art-and-culture)
 * ☁️ - [Cloud Platforms](#cloud-platforms)

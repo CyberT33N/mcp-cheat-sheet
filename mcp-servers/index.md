@@ -5,6 +5,7 @@ Dieser Bereich enthält umfassende Informationen zu verschiedenen MCP-Servern, k
 ## Inhalte
 
 - [Server Liste und Ressourcen](./server-liste.md)
+- [Reference Servers](./reference-servers.md)
 - [Website Crawling/Scraping](./website-crawling.md)
 - [Browser Automation](./browser-automation.md)
 - [Art & Culture](./art-culture.md)
