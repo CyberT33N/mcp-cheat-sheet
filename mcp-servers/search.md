@@ -25,4 +25,5 @@ Diese MCP-Server ermöglichen die Integration mit Suchmaschinen und Suchdiensten
 - [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) 📇 ☁️ - An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) 📇 ☁️ - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - One API for Search, Crawling, and Sitemaps
-- [inkeep/mcp-server-python](https://github.com/inkeep/mcp-server-python) 🐍 ☁️ - RAG Search over your content powered by [Inkeep](https://inkeep.com) 
+- [inkeep/mcp-server-python](https://github.com/inkeep/mcp-server-python) 🐍 ☁️ - RAG Search over your content powered by [Inkeep](https://inkeep.com)
+- [anthropic/mcp/websearch](https://github.com/anthropic/mcp/tree/main/src/websearch) 📇 ☁️ - Suche nach Kode-Beispielen und Bibliotheken 

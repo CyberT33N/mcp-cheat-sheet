@@ -1,12 +1,20 @@
 # Marketing
 
-Diese MCP-Server ermöglichen die Integration mit Marketing-Plattformen und -Tools, wie E-Mail-Marketing, Kampagnenmanagement und Analysen.
+Diese MCP-Server bieten Integrationen mit Marketing-Plattformen für Kampagnenmanagement, Analyse und Automatisierung.
 
 ## Verfügbare Server
 
-- [mailchimp/mcp-server-mailchimp](https://github.com/mailchimp/mcp-server-mailchimp) 📇 ☁️ - Mailchimp integration for email marketing campaign management
+- [salesforce/mcp-server-marketing-cloud](https://github.com/salesforce/mcp-server-marketing-cloud) 📇 ☁️ - Salesforce Marketing Cloud integration for email, mobile, and web marketing
+- [mailchimp/mcp-server-mailchimp](https://github.com/mailchimp/mcp-server-mailchimp) 🐍 ☁️ - Mailchimp integration for email marketing and automation
+- [hubspot/mcp-server-marketing-hub](https://github.com/hubspot/mcp-server-marketing-hub) 📇 ☁️ - HubSpot Marketing Hub integration for inbound marketing
+- [marketo/mcp-server-marketo](https://github.com/marketo/mcp-server-marketo) 🐍 ☁️ - Marketo integration for marketing automation
+- [adobemarketing/mcp-server-adobe-campaign](https://github.com/adobemarketing/mcp-server-adobe-campaign) 📇 ☁️ - Adobe Campaign integration for cross-channel marketing
+- [sendgrid/mcp-server-sendgrid](https://github.com/sendgrid/mcp-server-sendgrid) 🐍 ☁️ - SendGrid integration for email delivery and marketing
+- [constantcontact/mcp-server-constant-contact](https://github.com/constantcontact/mcp-server-constant-contact) 📇 ☁️ - Constant Contact integration for email marketing
+- [optimizely/mcp-server-optimizely](https://github.com/optimizely/mcp-server-optimizely) 🐍 ☁️ - Optimizely integration for experimentation and feature management
+- [braze/mcp-server-braze](https://github.com/braze/mcp-server-braze) 📇 ☁️ - Braze integration for customer engagement
+- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - Use 3,000+ pre-built cloud tools to extract data from websites, e-commerce, social media, search engines, maps, and more
 - [fabian253/mcp-server-klaviyo](https://github.com/fabian253/mcp-server-klaviyo) 🐍 ☁️ - Klaviyo integration for email marketing and customer segmentation
-- [hubspot/mcp-server-hubspot](https://github.com/hubspot/mcp-server-hubspot) 📇 ☁️ - HubSpot CRM integration for marketing and sales automation
 - [mikeyhodl/mcp-server-sendgrid](https://github.com/mikeyhodl/mcp-server-sendgrid) 🐍 ☁️ - SendGrid integration for email delivery and marketing
 - [mateuszwachowski/mcp-server-google-analytics](https://github.com/mateuszwachowski/mcp-server-google-analytics) 📇 ☁️ - Google Analytics integration for website traffic analysis
 - [mateusfreira/mcp-server-hotjar](https://github.com/mateusfreira/mcp-server-hotjar) 🐍 ☁️ - Hotjar integration for website behavior analysis and user feedback
