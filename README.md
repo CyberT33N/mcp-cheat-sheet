@@ -2,6 +2,15 @@
 
 Ein umfassendes Nachschlagewerk für das Model Control Protocol (MCP) mit Informationen über Einführung, Server, Clients und Anwendungsfälle.
 
+
+# Docs
+- https://modelcontextprotocol.io/introduction
+
+
+
+
+
+
 ## Inhaltsverzeichnis
 
 1. [Einführung](./einfuehrung/index.md)
