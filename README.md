@@ -264,6 +264,21 @@ We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
+
+
+
+<br><br>
+
+
+
+
+### 📂 <a name="crawling"></a>Website Crawling/Scraping
+- https://github.com/mendableai/firecrawl-mcp-server - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients. 
+
+
+<br><br>
+
+
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
