@@ -3,6 +3,12 @@
 Hier finden Sie Ressourcen und Verzeichnisse von MCP-Servern:
 
 - https://glama.ai/mcp/servers
+
+- https://smithery.ai/ **HOT** **FREE CLOUD**
+- https://cursor.directory/
+- https://www.lmsystems.ai/servers **PAID CLOUD**
+
+
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/modelcontextprotocol/servers
 
