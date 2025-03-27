@@ -48,4 +48,15 @@ Dieser Abschnitt enthält praktische Tipps und Tricks für die Arbeit mit MCP-Se
 
 - [MCP-Spezifikation](https://github.com/anthropics/anthropic-model-context-protocol)
 - [MCP-Entwicklergemeinschaft](https://github.com/modelcontextprotocol)
-- [FastMCP-Dokumentation](https://github.com/hannesrudolph/fastmcp) 
+- [FastMCP-Dokumentation](https://github.com/hannesrudolph/fastmcp)
+
+## Testing MCP Server
+
+### MCP Inspector
+
+- **Testing with MCP Inspector 🔍**
+  - Sie können MCP-Server direkt mit dem MCP Inspector testen:
+    ```
+    npx @modelcontextprotocol/inspector node ./build/index.js
+    ```
+  - Dies öffnet eine interaktive Oberfläche, mit der Sie die Funktionen des Servers erkunden, Suchanfragen ausführen und zwischengespeicherte Suchergebnisse anzeigen können. 
