@@ -8,6 +8,8 @@ Dieser Bereich enthält umfassende Informationen zu verschiedenen MCP-Servern, k
 - [Reference Servers](./reference-servers.md)
 - [Website Crawling/Scraping](./website-crawling.md)
 - [Browser Automation](./browser-automation.md)
+  - [Browser Tools MCP](./browser-automation/browser-tools/index.md)
+  - [Weitere Browser-Automation-Tools](./browser-automation/index.md)
 - [Art & Culture](./art-culture.md)
 - [Cloud Platforms](./cloud-platforms.md)
 - [Command Line](./command-line.md)
