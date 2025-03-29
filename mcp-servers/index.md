@@ -40,6 +40,7 @@ Dieser Bereich enthält umfassende Informationen zu verschiedenen MCP-Servern, k
   - [OpenRouter](./ai-providers/openrouter/index.md)
 - [Cognitive Frameworks](./cognitive-frameworks/index.md) 🧠
   - [DeepLucid3D UCPF Server](./cognitive-frameworks/deeplucid3d-ucpf/index.md)
+  - [Sequential Thinking](./cognitive-frameworks/sequential-thinking/index.md)
 - [UI & Design](./ui-design.md)
 - [Other Tools and Integrations](./other-tools.md)
 - [Frameworks](./frameworks.md)

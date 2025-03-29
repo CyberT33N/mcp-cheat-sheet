@@ -15,6 +15,7 @@ Cognitive Frameworks sind Systeme, die darauf ausgelegt sind, menschliche Denkpr
 ## Verfügbare Frameworks
 
 - [DeepLucid3D UCPF Server](./deeplucid3d-ucpf/index.md) - Unified Cognitive Processing Framework für AI-gestützte Problemlösungen und kreative Analysen
+- [Sequential Thinking](./sequential-thinking/index.md) - Strukturierte, schrittweise Denkprozesse mit Revisionen und Verzweigungen
 
 ## Anwendungsbereiche
 
@@ -25,4 +26,11 @@ Cognitive Frameworks sind besonders nützlich für:
 - Strukturierte Analyse von Mehrdeutigkeiten
 - Erkennung kognitiver Verzerrungen
 - Verbesserung von Lernprozessen
-- Entwicklung neuer Perspektiven 
+- Entwicklung neuer Perspektiven
+
+## Vergleich der Frameworks
+
+| Framework | Hauptfokus | Besondere Stärken | Anwendungsschwerpunkte |
+|-----------|------------|-------------------|------------------------|
+| DeepLucid3D UCPF | Wissensdimensionen und Perspektivengenerierung | Kreative Analysen, Zustandserkennung | Kreatives Problemlösen, Selbstreflexion |
+| Sequential Thinking | Strukturierte Gedankensequenzen | Mehrschrittige Analyse, Gedankenrevision | Komplexe Berechnungen, Debugging, Argumentationsanalyse | 
