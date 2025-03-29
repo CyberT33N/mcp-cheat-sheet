@@ -32,6 +32,8 @@ Dieser Bereich enthält umfassende Informationen zu verschiedenen MCP-Servern, k
 - [Payment & E-Commerce](./payment-ecommerce.md)
 - [Blockchain & Web3](./blockchain-web3.md)
 - [AI & ML Tools](./ai-ml-tools.md)
+- [AI-Provider](./ai-providers/index.md) 🤖
+  - [OpenRouter](./ai-providers/openrouter/index.md)
 - [Cognitive Frameworks](./cognitive-frameworks/index.md) 🧠
   - [DeepLucid3D UCPF Server](./cognitive-frameworks/deeplucid3d-ucpf/index.md)
 - [UI & Design](./ui-design.md)

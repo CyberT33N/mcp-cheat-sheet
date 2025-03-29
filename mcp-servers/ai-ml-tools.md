@@ -5,6 +5,7 @@ Diese MCP-Server bieten Integrationen mit KI- und Machine-Learning-Werkzeugen, e
 ## Verfügbare Server
 
 - [MushroomFleet/DeepLucid3D-MCP](https://github.com/MushroomFleet/DeepLucid3D-MCP) 📇 ☁️/🏠 - UCPF (Unified Cognitive Processing Framework) für AI-gestützte Problemlösungen und kreative Analysen ([Ausführliche Dokumentation](./cognitive-frameworks/deeplucid3d-ucpf/index.md))
+- [OpenRouter AI](https://github.com/heltonteixeira/openrouterai) 📇 ☁️ - Zugriff auf eine Vielzahl von KI-Modellen über die OpenRouter-Plattform ([Ausführliche Dokumentation](./ai-providers/openrouter/index.md))
 - [ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp) 📇 ☁️ - Predict anything with Chronulus AI forecasting and prediction agents
 - [anthropic/mcp/everart](https://github.com/anthropic/mcp/tree/main/src/everart) 📇 ☁️/🏠 - KI-Bildgenerierung mit verschiedenen Modellen
 - [anthropic/mcp/fetch](https://github.com/anthropic/mcp/tree/main/src/fetch) 📇 ☁️/🏠 - Web-Content-Abruf und -Konvertierung für effiziente LLM-Nutzung
