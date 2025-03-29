@@ -1,4 +1,3 @@
-
 # Search-MCP-Server mit Status-Angaben ergänzt 🔍
 
 ## Verfügbare Server
@@ -32,6 +31,7 @@
    - Fokus: AI-gestützte Websuche speziell für Entwickler
    - Entwickelt für AI-Agenten, ideal für präzise Codesuche
    - [Official Integration]
+   - [Ausführliche Dokumentation](./search/exa/index.md) 📚
 
 6. **`chroma-core/chroma-mcp`** ✅
    - https://github.com/chroma-core/chroma-mcp
@@ -136,8 +136,17 @@
     - Ideal für das Sammeln von Code-Snippets und API-Dokumentationen
     - [Official Integration]
 
-🔎 **Fazit:**  
-Für **reine Code-Suche** → `anthropic/mcp/websearch` [Official] oder `exa-labs/exa-mcp-server` [Official]  
+## 📚 Detaillierte Dokumentation
+
+Für ausgewählte Server bieten wir ausführliche Dokumentation:
+
+- [Exa MCP Server](./search/exa/index.md) - Leistungsstarke AI-gestützte Websuche für Entwickler
+
+## 🔎 Fazit
+
+Für **reine Code-Suche** → `anthropic/mcp/websearch` [Official] oder [`exa-labs/exa-mcp-server`](./search/exa/index.md) [Official]  
 Für **eigene Dokumente & Code-Referenzen** → `needle-ai/needle-mcp` [Official] oder `chroma-core/chroma-mcp` [Official]  
 Für **Volltext-Suche in Projekten** → `opensearch/mcp-server-opensearch` [Official] oder `elastic/mcp-server-elasticsearch-search` [Official]  
 Für **private Recherche ohne API-Keys** → `nkapila6/mcp-local-rag` [Community] oder `searxng/mcp-searxng` [Official]
+
+Für eine allgemeine Übersicht und Kategorisierung aller Search-MCP-Server, siehe die [Hauptseite für Search](./search/index.md).
