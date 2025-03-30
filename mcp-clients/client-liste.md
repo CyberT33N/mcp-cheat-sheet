@@ -162,7 +162,7 @@ Eine kleine Kommandozeilen-Schnittstelle für Chat-Anwendungen, die KI-Gespräch
 
 ## Web-Anwendungen
 
-### LibreChat
+### LibreChat **HOT**
 - **GitHub**: https://github.com/danny-avila/LibreChat
 - **Website**: https://www.librechat.ai/
 - **Lizenz**: MIT
