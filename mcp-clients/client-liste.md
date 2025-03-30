@@ -6,7 +6,7 @@ Diese Seite listet verschiedene verfügbare MCP-Clients auf. Die Daten stammen a
 
 ## Desktop-Anwendungen
 
-### 5ire
+### 5ire **HOT**
 - **GitHub**: https://github.com/nanbingxyz/5ire
 - **Website**: https://5ire.app/
 - **Lizenz**: GNU v3
