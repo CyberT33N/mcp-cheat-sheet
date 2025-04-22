@@ -5,7 +5,20 @@ Diese MCP-Server ermöglichen den Zugriff auf Dateisysteme und Dateioperationen 
 ## Verfügbare Server
 
 - [@modelcontextprotocol/server-fs](https://github.com/modelcontextprotocol/servers/tree/main/src/fs) 📇 🏠 - Local file system interface with comprehensive file operations
+
+### mcp-filesystem-extended
 - [fabienvauchelles/mcp-filesystem-extended](https://github.com/fabienvauchelles/mcp-filesystem-extended) 📇 🏠 - Local file system interface with comprehensive file operations - More features **HOT**
+```
+{
+  "mcpServers": {
+    "filesystem-extended": {
+        "command": "node",
+        "args": ["C:\\Projects\\mcp\\server\\system\\files\\mcp-filesystem-extended\\dist\\index.js", "C:\\Projects", "C:\\git"]
+    }
+  }
+}
+```
+  
 - [noahshinn/filesys](https://github.com/noahshinn/filesys) 🐍 🏠 - File system interface with additional capabilities for organizing and retrieving data
 - [Shuvro0421/easymcp](https://github.com/Shuvro0421/easymcp) 📇 🏠 - Basic file system operations with built-in security measures
 - [Tanmoy741127/s3-mcp-server](https://github.com/Tanmoy741127/s3-mcp-server) 🐍 ☁️ - AWS S3 integration with cloud file storage and retrieval capabilities
