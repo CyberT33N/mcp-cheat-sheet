@@ -18,7 +18,7 @@ Diese MCP-Server ermöglichen den Zugriff auf Dateisysteme und Dateioperationen 
   "mcpServers": {
     "filesystem-extended": {
         "command": "node",
-        "args": ["C:\\Projects\\mcp\\server\\system\\files\\mcp-filesystem-extended\\dist\\index.js", "C:\\Projects", "C:\\git"]
+        "args": ["C:\\Projects\\mcp\\server\\system\\files\\mcp-filesystem-extended\\dist\\index.js", "C:\\Projects", "C:\\git",  "c:\\git"]
     }
   }
 }
