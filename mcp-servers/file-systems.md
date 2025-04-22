@@ -6,8 +6,13 @@ Diese MCP-Server ermöglichen den Zugriff auf Dateisysteme und Dateioperationen 
 
 - [@modelcontextprotocol/server-fs](https://github.com/modelcontextprotocol/servers/tree/main/src/fs) 📇 🏠 - Local file system interface with comprehensive file operations
 
+<br><br>
+
 ### mcp-filesystem-extended
 - [fabienvauchelles/mcp-filesystem-extended](https://github.com/fabienvauchelles/mcp-filesystem-extended) 📇 🏠 - Local file system interface with comprehensive file operations - More features **HOT**
+
+<details><summary>Click to expand..</summary>
+
 ```
 {
   "mcpServers": {
@@ -18,6 +23,17 @@ Diese MCP-Server ermöglichen den Zugriff auf Dateisysteme und Dateioperationen 
   }
 }
 ```
+
+# read_files
+
+```
+default_api.mcp_filesystem-extended_read_files(paths = ["C:\\git\\privadent\\privadent-synchronizer\\.ai\\rules\\shared-rules\\node-ts\\testing-rules\\avoid-logger-spying.mdc", "C:\\git\\privadent\\privadent-synchronizer\\.ai\\rules\\shared-rules\\node-ts\\testing-rules\\test-structure.mdc"])
+```
+
+</details>
+
+<br><br>
+
   
 - [noahshinn/filesys](https://github.com/noahshinn/filesys) 🐍 🏠 - File system interface with additional capabilities for organizing and retrieving data
 - [Shuvro0421/easymcp](https://github.com/Shuvro0421/easymcp) 📇 🏠 - Basic file system operations with built-in security measures
