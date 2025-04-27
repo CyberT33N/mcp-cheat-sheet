@@ -13,3 +13,21 @@ Diese MCP-Server bieten Integrationen mit KI- und Machine-Learning-Werkzeugen, e
 - [anthropic/mcp/everything](https://github.com/anthropic/mcp/tree/main/src/everything) 📇 🏠 - Referenz-/Testserver mit Prompts, Ressourcen und Tools
 - [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) 📇 ☁️ - An MCP server that connects to Perplexity's Sonar API
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 📇 ☁️ - Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server 
+
+## Composio
+
+@https://github.com/ComposioHQ/composio
+
+**What is Composio?**
+
+Composio provides production-ready toolset for AI agents, offering:
+
+- Support for over 250+ tools across multiple categories:
+    - Software tools like GitHub, Notion, Linear, Gmail, Slack, Hubspot, Salesforce & more
+    - OS operations including file tool, shell tool, code analysis tool & more
+    - Search capabilities through Google, Perplexity, Tavily, and Exa & more
+- Comprehensive framework support including OpenAI, Groq, Claude, LlamaIndex, Langchain, CrewAI, Autogen, Gemini, and more
+- Managed authentication supporting multiple protocols (OAuth, API Keys, Basic JWT)
+- Up to 40% improved tool call accuracy through optimized design
+- Whitelabel solution for backend integration
+- Pluggable architecture supporting custom tools and extensions 
