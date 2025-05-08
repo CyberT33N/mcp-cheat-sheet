@@ -3,6 +3,8 @@
 Diese MCP-Server bieten Integrationen mit Projektmanagement- und Produktivitätstools, um Aufgaben, Projekte und Workflows zu verwalten.
 
 ## Verfügbare Server
+
+### mcp-atlassian
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 📇 ☁️ - Model Context Protocol (MCP) server for Atlassian products (Confluence and Jira). This integration supports both Confluence & Jira Cloud and Server/Data Center deployments.
 
 <details><summary>Click to expand..</summary>
