@@ -14,6 +14,8 @@ Hier finden Sie Ressourcen und Verzeichnisse von MCP-Servern:
 
 Wir haben jetzt ein [webbasiertes Verzeichnis](https://glama.ai/mcp/servers), das mit dem Repository synchronisiert ist.
 
+- https://gitmcp.io/ - Instantly create a Remote MCP server for any GitHub repository. Simply change the domain from github.com or github.io to gitmcp.io and get instant AI context for any GitHub repository.
+
 * 🔬 - [Reference Servers](#reference-servers)
 * 📂 - [Browser Automation](#browser-automation)
 * 🎨 - [Art & Culture](#art-and-culture)
