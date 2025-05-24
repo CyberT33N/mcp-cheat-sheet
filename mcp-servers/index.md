@@ -11,6 +11,7 @@ Hier finden Sie eine Übersicht über die verschiedenen MCP-Server-Kategorien un
     *   [Playwright](./browser-automation/playwright)
     *   [Puppeteer](./browser-automation/puppeteer)
 *   [Cloud Platforms](./cloud-platforms.md)
+*   [Cloudflare MCP Servers](./cloudflare-mcp-servers.md)
 *   [Cognitive Frameworks](./cognitive-frameworks)
     *   [Deeplucid3D UCPF](./cognitive-frameworks/deeplucid3d-ucpf)
     *   [Sequential Thinking](./cognitive-frameworks/sequential-thinking)
