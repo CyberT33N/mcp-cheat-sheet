@@ -3,7 +3,8 @@
 Diese MCP-Server ermöglichen die Integration mit Versionskontrollsystemen wie Git, SVN und anderen Code-Repositories. Sie unterstützen die Verwaltung und Analyse von Codeänderungen.
 
 ## Verfügbare Server
-
+- https://github.com/github/github-mcp-server <-- Offical Github MCP
+ 
 - [github/mcp-server-github](https://github.com/github/mcp-server-github) 📇 ☁️ - GitHub integration for repository management and code collaboration
 - [JetNine9/mcp-github](https://github.com/JetNine9/mcp-github) 📇 ☁️ - GitHub integration with repository analysis and pull request management
 - [gitlab/mcp-server-gitlab](https://github.com/gitlab/mcp-server-gitlab) 🐍 ☁️ - GitLab integration for complete DevOps platform access
