@@ -12,7 +12,7 @@ Hier finden Sie Ressourcen und Verzeichnisse von MCP-Servern:
 - https://github.com/punkpeye/awesome-mcp-servers
 - https://github.com/modelcontextprotocol/servers
 
-- https://github.com/metorial/mcp-index?utm_source=tldrwebdev
+- https://github.com/metorial/mcp-index?utm_source=tldrwebdev **NEW**
 
 Wir haben jetzt ein [webbasiertes Verzeichnis](https://glama.ai/mcp/servers), das mit dem Repository synchronisiert ist.
 
