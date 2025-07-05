@@ -1,0 +1,292 @@
+# Abfahrtsplan für Chunk 09
+
+Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_09.md` in das Wissens-Repository.
+
+- [x] **1. Ziel-Datei: `mcp-servers/version-control.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "Gerrit Code Review Server"
+        - **Quelle (Chunk 09, Zeilen):** 2-5
+      - **Block-Name:** "GitHub Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 117-120
+      - **Block-Name:** "Custom GitLab Server"
+        - **Quelle (Chunk 09, Zeilen):** 197-200
+      - **Block-Name:** "Git MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 307-310
+
+- [x] **2. Ziel-Datei: `mcp-servers/knowledge-memory.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "Notion Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 7-10
+      - **Block-Name:** "Outline Document Search Server"
+        - **Quelle (Chunk 09, Zeilen):** 202-205
+
+- [x] **3. Ziel-Datei: `mcp-servers/marketing.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "SEO Automation and Optimization"
+        - **Quelle (Chunk 09, Zeilen):** 12-15
+      - **Block-Name:** "Google Ads Integration"
+        - **Quelle (Chunk 09, Zeilen):** 252-255
+
+- [x] **4. Ziel-Datei: `mcp-servers/business-tools.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "myExcel"
+        - **Quelle (Chunk 09, Zeilen):** 17-20
+      - **Block-Name:** "ADP MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 22-25
+      - **Block-Name:** "Adobe Analytics MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 27-30
+      - **Block-Name:** "CData JDBC MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 32-35
+      - **Block-Name:** "CData Connect Cloud MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 37-40
+      - **Block-Name:** "Excel Online MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 42-45
+      - **Block-Name:** "Dynamics 365 MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 47-50
+      - **Block-Name:** "Gmail MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 52-55
+      - **Block-Name:** "Google Calendar MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 57-60
+      - **Block-Name:** "HubSpot MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 62-65
+      - **Block-Name:** "Google Analytics MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 67-70
+      - **Block-Name:** "Sage Intacct MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 72-75
+      - **Block-Name:** "Jira MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 77-80
+      - **Block-Name:** "Microsoft Teams MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 82-85
+      - **Block-Name:** "NetSuite MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 87-90
+      - **Block-Name:** "QuickBooks Online MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 97-100
+      - **Block-Name:** "Slack MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 102-105
+      - **Block-Name:** "Salesforce MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 107-110
+      - **Block-Name:** "Veeva MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 112-115
+      - **Block-Name:** "Workday MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 122-125
+      - **Block-Name:** "FindMCP"
+        - **Quelle (Chunk 09, Zeilen):** 127-130
+      - **Block-Name:** "ELADMIN后台管理系统"
+        - **Quelle (Chunk 09, Zeilen):** 152-155
+      - **Block-Name:** "Chargebee MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 162-165
+      - **Block-Name:** "Flomo Note Writer"
+        - **Quelle (Chunk 09, Zeilen):** 167-170
+      - **Block-Name:** "fast_bitrix24"
+        - **Quelle (Chunk 09, Zeilen):** 182-185
+      - **Block-Name:** "Bitrix24 REST API PHP SDK"
+        - **Quelle (Chunk 09, Zeilen):** 192-195
+      - **Block-Name:** "Naver DataLab MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 197-200
+      - **Block-Name:** "Keycloak"
+        - **Quelle (Chunk 09, Zeilen):** 207-210
+      - **Block-Name:** "Chronulus AI Forecasting & Prediction Agents"
+        - **Quelle (Chunk 09, Zeilen):** 212-215
+      - **Block-Name:** "Todoist-mcp-server-extended"
+        - **Quelle (Chunk 09, Zeilen):** 217-220
+      - **Block-Name:** "Shrimp Task Manager"
+        - **Quelle (Chunk 09, Zeilen):** 222-225
+      - **Block-Name:** "ClickUp Task Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 227-230
+      - **Block-Name:** "ClickUp Task Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 232-235
+      - **Block-Name:** "Clay MCP"
+        - **Quelle (Chunk 09, Zeilen):** 237-240
+      - **Block-Name:** "VeyraX MCP"
+        - **Quelle (Chunk 09, Zeilen):** 242-245
+      - **Block-Name:** "CircleCI MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 247-250
+      - **Block-Name:** "Connection Hub for AI Tools and Services"
+        - **Quelle (Chunk 09, Zeilen):** 252-255
+      - **Block-Name:** "MasterGO MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 257-260
+      - **Block-Name:** "Cloudflare"
+        - **Quelle (Chunk 09, Zeilen):** 262-265
+      - **Block-Name:** "Codacy MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 272-275
+      - **Block-Name:** "Salesforce CLI MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 277-280
+      - **Block-Name:** "Sentry MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 282-285
+      - **Block-Name:** "Opik"
+        - **Quelle (Chunk 09, Zeilen):** 292-295
+      - **Block-Name:** "Cloud PC Management"
+        - **Quelle (Chunk 09, Zeilen):** 297-300
+      - **Block-Name:** "Opik MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 302-305
+      - **Block-Name:** "Opik MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 307-310
+      - **Block-Name:** "Confluence MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 312-315
+      - **Block-Name:** "Google Meet MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 317-320
+      - **Block-Name:** "Metabase Analytics Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 322-325
+      - **Block-Name:** "Linear Issue and Project Management Server"
+        - **Quelle (Chunk 09, Zeilen):** 327-330
+      - **Block-Name:** "CrateDB MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 332-335
+      - **Block-Name:** "Expert Server"
+        - **Quelle (Chunk 09, Zeilen):** 337-340
+      - **Block-Name:** "Vibe-Coder"
+        - **Quelle (Chunk 09, Zeilen):** 342-345
+      - **Block-Name:** "promptz.dev MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 347-350
+      - **Block-Name:** "Asana Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 352-355
+      - **Block-Name:** "Confluent MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 357-360
+      - **Block-Name:** "Crossmint Checkout"
+        - **Quelle (Chunk 09, Zeilen):** 362-365
+      - **Block-Name:** "Feishu(飞书) Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 367-370
+      - **Block-Name:** "Data Gouv MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 372-375
+      - **Block-Name:** "Lark Function Call AI Agent"
+        - **Quelle (Chunk 09, Zeilen):** 377-380
+      - **Block-Name:** "ATLAS MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 382-385
+      - **Block-Name:** "Ntfy MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 387-390
+      - **Block-Name:** "agile-planner-mcp-server"
+        - **Quelle (Chunk 09, Zeilen):** 392-395
+      - **Block-Name:** "DevDocs"
+        - **Quelle (Chunk 09, Zeilen):** 397-400
+      - **Block-Name:** "Crunchbase Data Access Server"
+        - **Quelle (Chunk 09, Zeilen):** 402-405
+      - **Block-Name:** "Global Configuration Repository"
+        - **Quelle (Chunk 09, Zeilen):** 407-410
+      - **Block-Name:** "gdsx"
+        - **Quelle (Chunk 09, Zeilen):** 412-415
+      - **Block-Name:** "OSSInsight"
+        - **Quelle (Chunk 09, Zeilen):** 417-420
+      - **Block-Name:** "Notion Integration"
+        - **Quelle (Chunk 09, Zeilen):** 422-425
+      - **Block-Name:** "Fillout.io"
+        - **Quelle (Chunk 09, Zeilen):** 427-430
+      - **Block-Name:** "Quickbase Connector"
+        - **Quelle (Chunk 09, Zeilen):** 432-435
+      - **Block-Name:** "OneNote MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 437-440
+      - **Block-Name:** "MSSQL MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 442-445
+      - **Block-Name:** "Inbox MCP"
+        - **Quelle (Chunk 09, Zeilen):** 447-450
+      - **Block-Name:** "飞书多维表格"
+        - **Quelle (Chunk 09, Zeilen):** 452-455
+      - **Block-Name:** "Databutton App"
+        - **Quelle (Chunk 09, Zeilen):** 457-460
+      - **Block-Name:** "Databutton"
+        - **Quelle (Chunk 09, Zeilen):** 462-465
+      - **Block-Name:** "X Server"
+        - **Quelle (Chunk 09, Zeilen):** 467-470
+      - **Block-Name:** "AI公文写作助手"
+        - **Quelle (Chunk 09, Zeilen):** 472-475
+      - **Block-Name:** "AutoGPT"
+        - **Quelle (Chunk 09, Zeilen):** 477-480
+      - **Block-Name:** "Project Handoffs"
+        - **Quelle (Chunk 09, Zeilen):** 482-485
+      - **Block-Name:** "DBCode - Database Management"
+        - **Quelle (Chunk 09, Zeilen):** 487-490
+      - **Block-Name:** "DealX Platform Server"
+        - **Quelle (Chunk 09, Zeilen):** 492-495
+      - **Block-Name:** "Google Calendar Server"
+        - **Quelle (Chunk 09, Zeilen):** 497-500
+      - **Block-Name:** "DeepL Translation Server"
+        - **Quelle (Chunk 09, Zeilen):** 502-505
+      - **Block-Name:** "Figma MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 507-510
+      - **Block-Name:** "Google Forms Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 512-515
+      - **Block-Name:** "Trello Server"
+        - **Quelle (Chunk 09, Zeilen):** 517-520
+      - **Block-Name:** "Ticketmaster"
+        - **Quelle (Chunk 09, Zeilen):** 522-525
+      - **Block-Name:** "SQL Server Interaction Tool"
+        - **Quelle (Chunk 09, Zeilen):** 527-530
+      - **Block-Name:** "Email sending (used by Deploya.dev)"
+        - **Quelle (Chunk 09, Zeilen):** 532-535
+      - **Block-Name:** "Twilio Messaging"
+        - **Quelle (Chunk 09, Zeilen):** 537-540
+      - **Block-Name:** "Descope MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 542-545
+      - **Block-Name:** "Twilio Agent Payments"
+        - **Quelle (Chunk 09, Zeilen):** 547-550
+      - **Block-Name:** "Slack Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 552-555
+      - **Block-Name:** "Descope MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 557-560
+      - **Block-Name:** "Google Spreadsheet Manipulator"
+        - **Quelle (Chunk 09, Zeilen):** 562-565
+      - **Block-Name:** "GitHub"
+        - **Quelle (Chunk 09, Zeilen):** 567-570
+      - **Block-Name:** "GitHub Projects"
+        - **Quelle (Chunk 09, Zeilen):** 572-575
+      - **Block-Name:** "YAPI MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 577-580
+      - **Block-Name:** "DevHub CMS Integration"
+        - **Quelle (Chunk 09, Zeilen):** 582-585
+      - **Block-Name:** "TESS AI Integration Server"
+        - **Quelle (Chunk 09, Zeilen):** 587-590
+      - **Block-Name:** "Tabler Dashboard Template"
+        - **Quelle (Chunk 09, Zeilen):** 592-595
+      - **Block-Name:** "Spinnaker MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 597-600
+
+- [x] **5. Ziel-Datei: `mcp-servers/Databases/databases.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "MySQL MCP Server by CData"
+        - **Quelle (Chunk 09, Zeilen):** 92-95
+      - **Block-Name:** "CentralMind Gateway"
+        - **Quelle (Chunk 09, Zeilen):** 137-140
+      - **Block-Name:** "Chakra MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 147-150
+      - **Block-Name:** "fast_bitrix24"
+        - **Quelle (Chunk 09, Zeilen):** 182-185
+
+- [x] **6. Ziel-Datei: `mcp-servers/project-management.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "任务管理工具"
+        - **Quelle (Chunk 09, Zeilen):** 117-120
+      - **Block-Name:** "Python Jira MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 157-160
+      - **Block-Name:** "AI Customer Support Bot"
+        - **Quelle (Chunk 09, Zeilen):** 187-190
+      - **Block-Name:** "Role-Specific Context Server"
+        - **Quelle (Chunk 09, Zeilen):** 200-203
+      - **Block-Name:** "Task Manager"
+        - **Quelle (Chunk 09, Zeilen):** 205-208
+      - **Block-Name:** "Hevy Fitness API MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 210-213
+
+- [x] **7. Ziel-Datei: `mcp-servers/communication.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "飞书MCP机器人"
+        - **Quelle (Chunk 09, Zeilen):** 177-180
+
+- [x] **8. Index-Aktualisierung: `mcp-servers/`**
+  - **AKTION:** Aktualisiere die `index.md` in diesem Verzeichnis, um die Änderungen zu reflektieren.
+
+- [x] **17. Ziel-Datei: `mcp-servers/knowledge-memory.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "ATLAS MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 382-385
+
+- [x] **18. Ziel-Datei: `mcp-servers/ai-ml-tools.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "ATLAS MCP Server"
+        - **Quelle (Chunk 09, Zeilen):** 382-385 

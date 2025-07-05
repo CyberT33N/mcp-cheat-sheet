@@ -13,7 +13,7 @@ This plan outlines the processing steps for the content chunks.
 - [x] .tmp/chunk_06.md
 - [x] .tmp/chunk_07.md
 - [x] .tmp/chunk_08.md
-- [ ] .tmp/chunk_09.md
+- [x] .tmp/chunk_09.md
 - [ ] .tmp/chunk_10.md
 - [ ] .tmp/chunk_11.md
 - [ ] .tmp/chunk_12.md
