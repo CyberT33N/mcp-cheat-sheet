@@ -14,4 +14,5 @@ Diese MCP-Server ermöglichen die Integration mit Cloud-Plattformen. Sie bieten 
 - [jamsocket/forevervm](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) 📇 ☁️ - Run Python in a code sandbox
 - [integration-app/mcp-server](https://github.com/integration-app/mcp-server) 📇 ☁️ - Interact with any other SaaS applications on behalf of your customers
 - [riza-io/riza-mcp](https://github.com/riza-io/riza-mcp) 📇 ☁️ - Arbitrary code execution and tool-use platform for LLMs by [Riza](https://riza.io)
-- [unifai-network/unifai-mcp-server](https://github.com/unifai-network/unifai-mcp-server) 📇 ☁️ - Dynamically search and call tools using [UnifAI Network](https://unifai.network) 
+- [unifai-network/unifai-mcp-server](https://github.com/unifai-network/unifai-mcp-server) 📇 ☁️ - Dynamically search and call tools using [UnifAI Network](https://unifai.network)
+- <img src="https://github.com/arunsanna.png?size=120" width="12px" height="12px" /> **[AWS MCP](https://github.com/arunsanna/aws-sage)** - Query and manage AWS resources using natural language for simplified cloud operations. Integrate seamlessly with Claude for intuitive management of AWS environments. 

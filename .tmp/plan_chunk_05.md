@@ -1,0 +1,219 @@
+# Abfahrtsplan für Chunk 05
+
+Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_05.md` in das Wissens-Repository.
+
+- [x] **1. Ziel-Datei: `mcp-servers/browser-automation.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Browser Extension and MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 2-5
+        - **Block-Name:** "Chrome Browser Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 7-10
+        - **Block-Name:** "Chrome Server"
+          - **Quelle (Chunk 05, Zeilen):** 12-15
+        - **Block-Name:** "BrowserCat Remote Browser Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 17-20
+        - **Block-Name:** "mcp-undetected-chromedriver"
+          - **Quelle (Chunk 05, Zeilen):** 22-25
+        - **Block-Name:** "Patchright Lite"
+          - **Quelle (Chunk 05, Zeilen):** 27-30
+        - **Block-Name:** "Fetcher"
+          - **Quelle (Chunk 05, Zeilen):** 32-35
+        - **Block-Name:** "Browser Control"
+          - **Quelle (Chunk 05, Zeilen):** 37-40
+        - **Block-Name:** "Playwright"
+          - **Quelle (Chunk 05, Zeilen):** 42-45
+        - **Block-Name:** "Smooth Operator Agent Tools"
+          - **Quelle (Chunk 05, Zeilen):** 47-50
+        - **Block-Name:** "FunPay Viper"
+          - **Quelle (Chunk 05, Zeilen):** 52-55
+        - **Block-Name:** "UIAutomator2 Android Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 57-60
+        - **Block-Name:** "moling"
+          - **Quelle (Chunk 05, Zeilen):** 62-65
+        - **Block-Name:** "MediaCrawler"
+          - **Quelle (Chunk 05, Zeilen):** 67-70
+        - **Block-Name:** "Automate GUI Testing and Control"
+          - **Quelle (Chunk 05, Zeilen):** 72-75
+        - **Block-Name:** "ChatGPT Integration Tool"
+          - **Quelle (Chunk 05, Zeilen):** 77-80
+        - **Block-Name:** "Hyperbrowser"
+          - **Quelle (Chunk 05, Zeilen):** 82-85
+        - **Block-Name:** "Playwright MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 87-90
+        - **Block-Name:** "VibeCheck Web Testing Agent"
+          - **Quelle (Chunk 05, Zeilen):** 92-95
+        - **Block-Name:** "VibeShift Web Tester"
+          - **Quelle (Chunk 05, Zeilen):** 97-100
+        - **Block-Name:** "Browser Agent"
+          - **Quelle (Chunk 05, Zeilen):** 102-105
+        - **Block-Name:** "G-Search"
+          - **Quelle (Chunk 05, Zeilen):** 107-110
+        - **Block-Name:** "Fetcher"
+          - **Quelle (Chunk 05, Zeilen):** 112-115
+        - **Block-Name:** "Browser Automation"
+          - **Quelle (Chunk 05, Zeilen):** 117-120
+        - **Block-Name:** "JigsawStack AI Web Scraper"
+          - **Quelle (Chunk 05, Zeilen):** 122-125
+        - **Block-Name:** "Bear MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 127-130
+        - **Block-Name:** "Rednote Automatic Xiaohongshu Commenting Tool"
+          - **Quelle (Chunk 05, Zeilen):** 132-135
+        - **Block-Name:** "Browser Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 137-140
+        - **Block-Name:** "Browser Tabs"
+          - **Quelle (Chunk 05, Zeilen):** 142-145
+        - **Block-Name:** "AOAI Web Browsing"
+          - **Quelle (Chunk 05, Zeilen):** 147-150
+        - **Block-Name:** "Browser Use"
+          - **Quelle (Chunk 05, Zeilen):** 152-155
+        - **Block-Name:** "PyMCPAutoGUI"
+          - **Quelle (Chunk 05, Zeilen):** 157-160
+        - **Block-Name:** "Playwright MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 162-165
+        - **Block-Name:** "Playwright Record"
+          - **Quelle (Chunk 05, Zeilen):** 167-170
+        - **Block-Name:** "Firecrawl Web Scraping Server"
+          - **Quelle (Chunk 05, Zeilen):** 172-175
+        - **Block-Name:** "Playwright CDP"
+          - **Quelle (Chunk 05, Zeilen):** 177-180
+        - **Block-Name:** "Browserbase Server"
+          - **Quelle (Chunk 05, Zeilen):** 182-185
+        - **Block-Name:** "Chrome Browser Control Server"
+          - **Quelle (Chunk 05, Zeilen):** 187-190
+        - **Block-Name:** "End to End Testing Server"
+          - **Quelle (Chunk 05, Zeilen):** 192-195
+        - **Block-Name:** "Nova Act Browser Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 197-200
+        - **Block-Name:** "SAP GUI Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 202-205
+        - **Block-Name:** "Playwright Browser Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 207-210
+        - **Block-Name:** "极简翻译-谷歌版"
+          - **Quelle (Chunk 05, Zeilen):** 212-215
+        - **Block-Name:** "Puppeteer MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 217-220
+        - **Block-Name:** "Hyperbrowser MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 222-225
+        - **Block-Name:** "Browser Use Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 227-230
+        - **Block-Name:** "Playwright Automation"
+          - **Quelle (Chunk 05, Zeilen):** 232-235
+        - **Block-Name:** "Browserbase MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 237-240
+        - **Block-Name:** "Vibe-Eyes"
+          - **Quelle (Chunk 05, Zeilen):** 242-245
+        - **Block-Name:** "Mobile Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 247-250
+        - **Block-Name:** "Puppeteer"
+          - **Quelle (Chunk 05, Zeilen):** 252-255
+        - **Block-Name:** "WebUI"
+          - **Quelle (Chunk 05, Zeilen):** 257-260
+        - **Block-Name:** "Stealth Browser"
+          - **Quelle (Chunk 05, Zeilen):** 262-265
+        - **Block-Name:** "Chrome DevTools"
+          - **Quelle (Chunk 05, Zeilen):** 267-270
+        - **Block-Name:** "OmniParser AutoGUI"
+          - **Quelle (Chunk 05, Zeilen):** 272-275
+        - **Block-Name:** "Browserbase Server"
+          - **Quelle (Chunk 05, Zeilen):** 277-280
+        - **Block-Name:** "Console and Network Logs Server"
+          - **Quelle (Chunk 05, Zeilen):** 282-285
+        - **Block-Name:** "WebEvalAgent"
+          - **Quelle (Chunk 05, Zeilen):** 287-290
+        - **Block-Name:** "Web QA Agent"
+          - **Quelle (Chunk 05, Zeilen):** 292-295
+        - **Block-Name:** "Playwright Browser Automation Server"
+          - **Quelle (Chunk 05, Zeilen):** 297-300
+
+- [x] **2. Ziel-Datei: `mcp-servers/location-services.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "时间查询服务器"
+          - **Quelle (Chunk 05, Zeilen):** 302-305
+        - **Block-Name:** "Weather Information Enhancer"
+          - **Quelle (Chunk 05, Zeilen):** 307-310
+        - **Block-Name:** "Tenki"
+          - **Quelle (Chunk 05, Zeilen):** 312-315
+        - **Block-Name:** "Weather Server"
+          - **Quelle (Chunk 05, Zeilen):** 317-320
+        - **Block-Name:** "Weather Server"
+          - **Quelle (Chunk 05, Zeilen):** 322-325
+        - **Block-Name:** "Awesome MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 327-330
+        - **Block-Name:** "Mapbox Server"
+          - **Quelle (Chunk 05, Zeilen):** 332-335
+        - **Block-Name:** "Weather Server"
+          - **Quelle (Chunk 05, Zeilen):** 337-340
+        - **Block-Name:** "Bengaluru BMTC Transit Server"
+          - **Quelle (Chunk 05, Zeilen):** 342-345
+        - **Block-Name:** "Amazon Rainforest Travel Guide"
+          - **Quelle (Chunk 05, Zeilen):** 347-350
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 352-355
+        - **Block-Name:** "Weather and Finance Data Server"
+          - **Quelle (Chunk 05, Zeilen):** 357-360
+        - **Block-Name:** "ALAPI MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 362-365
+        - **Block-Name:** "Malaysia Prayer Time Server"
+          - **Quelle (Chunk 05, Zeilen):** 367-370
+        - **Block-Name:** "AEMET Weather Data Server"
+          - **Quelle (Chunk 05, Zeilen):** 372-375
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 377-380
+        - **Block-Name:** "ADK Google Maps Agent"
+          - **Quelle (Chunk 05, Zeilen):** 382-385
+        - **Block-Name:** "百度地图 MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 387-390
+        - **Block-Name:** "Tung Shing Almanac Service"
+          - **Quelle (Chunk 05, Zeilen):** 392-395
+        - **Block-Name:** "USGS Earthquake Data"
+          - **Quelle (Chunk 05, Zeilen):** 397-400
+        - **Block-Name:** "Bocha Search"
+          - **Quelle (Chunk 05, Zeilen):** 402-405
+        - **Block-Name:** "IP Geolocation Server"
+          - **Quelle (Chunk 05, Zeilen):** 407-410
+        - **Block-Name:** "Geoapify MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 412-415
+        - **Block-Name:** "Google Map Server"
+          - **Quelle (Chunk 05, Zeilen):** 417-420
+        - **Block-Name:** "Kakao Navigation"
+          - **Quelle (Chunk 05, Zeilen):** 422-425
+        - **Block-Name:** "Kakao Mobility & Kakao Map Server"
+          - **Quelle (Chunk 05, Zeilen):** 427-430
+        - **Block-Name:** "Kakao Map"
+          - **Quelle (Chunk 05, Zeilen):** 432-435
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 437-440
+        - **Block-Name:** "FlightRadar"
+          - **Quelle (Chunk 05, Zeilen):** 442-445
+        - **Block-Name:** "Forest Fire Visualization Server"
+          - **Quelle (Chunk 05, Zeilen):** 447-450
+        - **Block-Name:** "DNDzgz Zaragoza Transit Server"
+          - **Quelle (Chunk 05, Zeilen):** 452-455
+        - **Block-Name:** "Dappier MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 457-460
+        - **Block-Name:** "Earthdata Server"
+          - **Quelle (Chunk 05, Zeilen):** 462-465
+        - **Block-Name:** "Weather Data Server"
+          - **Quelle (Chunk 05, Zeilen):** 467-470
+        - **Block-Name:** "Local MCP Server"
+          - **Quelle (Chunk 05, Zeilen):** 472-475
+        - **Block-Name:** "AWS GeoPlaces Location Service"
+          - **Quelle (Chunk 05, Zeilen):** 477-480
+        - **Block-Name:** "EdgeOne Geo Location Server"
+          - **Quelle (Chunk 05, Zeilen):** 482-485
+        - **Block-Name:** "Weather Query Server/Client"
+          - **Quelle (Chunk 05, Zeilen):** 487-490
+        - **Block-Name:** "Aviation Weather Server"
+          - **Quelle (Chunk 05, Zeilen):** 492-495
+        - **Block-Name:** "MCP Servers"
+          - **Quelle (Chunk 05, Zeilen):** 497-500
+        - **Block-Name:** "Travel Planner"
+          - **Quelle (Chunk 05, Zeilen):** 502-505
+        - **Block-Name:** "Weather MCP Server Starter"
+          - **Quelle (Chunk 05, Zeilen):** 507-510
+        - **Block-Name:** "Brazilian Postal Code Server"
+          - **Quelle (Chunk 05, Zeilen):** 512-515
+        - **Block-Name:** "Weather and WordPress Integration Server"
+          - **Quelle (Chunk 05, Zeilen):** 517-520 

@@ -2,14 +2,13 @@
 
 Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_04.md` in das Wissens-Repository.
 
-- [ ] **1. Ziel-Datei: `mcp-servers/search.md`**
+- [x] **1. Ziel-Datei: `mcp-servers/search.md`**
     - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
     - **BLOCKS:**
         - **Block-Name:** "Scholarly Article Search Server"
           - **Quelle (Chunk 04, Zeilen):** 2-5
-        - **Block-Name:** "Fetch MCP Server"
-          - **Quelle (Chunk 04, Zeilen):** 7-10
-        - **Block-Name:** "Mamont MCP Server"
+        - [x] **4. Ziel-Datei: `mcp-servers/other-tools.md`**
+- [x] **5. Ziel-Datei: `mcp-servers/developer-tools.md`**
           - **Quelle (Chunk 04, Zeilen):** 12-15
         - **Block-Name:** "DuckDuckGo Search"
           - **Quelle (Chunk 04, Zeilen):** 19-22
@@ -30,7 +29,7 @@ Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_04.m
         - **Block-Name:** "Simple Website Fetching Tool"
           - **Quelle (Chunk 04, Zeilen):** 67-69
 
-- [ ] **2. Ziel-Datei: `mcp-servers/knowledge-memory.md`**
+- [x] **2. Ziel-Datei: `mcp-servers/knowledge-memory.md`**
     - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
     - **BLOCKS:**
         - **Block-Name:** "Epoll-based HTTP Server"
@@ -197,7 +196,7 @@ Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_04.m
           - **Quelle (Chunk 04, Zeilen):** 480-483
         - **Block-Name:** "Sequential Thinking Server"
           - **Quelle (Chunk 04, Zeilen):** 485-488
-- [ ] **3. Ziel-Datei: `mcp-servers/browser-automation.md`**
+- [x] **3. Ziel-Datei: `mcp-servers/browser-automation.md`**
     - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
     - **BLOCKS:**
         - **Block-Name:** "Browserbase MCP Server"
@@ -289,13 +288,13 @@ Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_04.m
         - **Block-Name:** "MCP Servers"
           - **Quelle (Chunk 04, Zeilen):** 707-710
 
-- [ ] **4. Ziel-Datei: `mcp-servers/other-tools.md`**
+- [x] **4. Ziel-Datei: `mcp-servers/other-tools.md`**
     - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
     - **BLOCKS:**
         - **Block-Name:** "Personal Assistant Agent"
           - **Quelle (Chunk 04, Zeilen):** 17-20
 
-- [ ] **5. Ziel-Datei: `mcp-servers/developer-tools.md`**
+- [x] **5. Ziel-Datei: `mcp-servers/developer-tools.md`**
     - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
     - **BLOCKS:**
         - **Block-Name:** "Jianshu"

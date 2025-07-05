@@ -1,0 +1,320 @@
+# Abfahrtsplan für Chunk 08
+
+Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_08.md` in das Wissens-Repository.
+
+- [x] **1. Ziel-Datei: `mcp-servers/search.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "AI Agent Marketplace Index Search Server"
+          - **Quelle (Chunk 08, Zeilen):** 2-5
+        - **Block-Name:** "Tavily Search"
+          - **Quelle (Chunk 08, Zeilen):** 267-270
+
+- [x] **2. Ziel-Datei: `mcp-servers/communication.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Email Server"
+          - **Quelle (Chunk 08, Zeilen):** 7-10
+        - **Block-Name:** "Gmail Integration Server"
+          - **Quelle (Chunk 08, Zeilen):** 27-30
+        - **Block-Name:** "G Suite Integration"
+          - **Quelle (Chunk 08, Zeilen):** 52-55
+        - **Block-Name:** "G Suite Integration"
+          - **Quelle (Chunk 08, Zeilen):** 57-60
+        - **Block-Name:** "Google Calendar Integration Server"
+          - **Quelle (Chunk 08, Zeilen):** 112-115
+        - **Block-Name:** "Protonmail MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 132-135
+        - **Block-Name:** "Slack Model Context Protocol Server"
+          - **Quelle (Chunk 08, Zeilen):** 287-290
+        - **Block-Name:** "Headless Gmail Server"
+          - **Quelle (Chunk 08, Zeilen):** 342-345
+        - **Block-Name:** "mcp-unipile"
+          - **Quelle (Chunk 08, Zeilen):** 347-350
+        - **Block-Name:** "Gmail MCP (optional integration with Google Calendar)"
+          - **Quelle (Chunk 08, Zeilen):** 352-355
+        - **Block-Name:** "Gmail MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 442-445
+        - **Block-Name:** "Python LINE Server"
+          - **Quelle (Chunk 08, Zeilen):** 127-130
+
+- [x] **3. Ziel-Datei: `mcp-servers/knowledge-memory.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Aindreyway Codex Keeper"
+          - **Quelle (Chunk 08, Zeilen):** 12-15
+        - **Block-Name:** "Wiki MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 47-50
+        - **Block-Name:** "Documentation Management Service"
+          - **Quelle (Chunk 08, Zeilen):** 62-65
+        - **Block-Name:** "Memory Box MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 122-125
+        - **Block-Name:** "Atlan Model Context Protocol Server"
+          - **Quelle (Chunk 08, Zeilen):** 227-230
+
+- [x] **4. Ziel-Datei: `mcp-servers/developer-tools.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Aipolabs MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 17-20
+        - **Block-Name:** "Custom AI Tools Demo"
+          - **Quelle (Chunk 08, Zeilen):** 32-35
+        - **Block-Name:** "ALAPI MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 50-53
+        - **Block-Name:** "Webhook Tester"
+          - **Quelle (Chunk 08, Zeilen):** 82-85
+        - **Block-Name:** "Alibaba Cloud MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 92-95
+        - **Block-Name:** "Alibaba Cloud Operations Server"
+          - **Quelle (Chunk 08, Zeilen):** 100-103
+        - **Block-Name:** "Adb MySQL MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 105-108
+        - **Block-Name:** "Swagger Server"
+          - **Quelle (Chunk 08, Zeilen):** 137-140
+        - **Block-Name:** "CentralMind Gateway"
+          - **Quelle (Chunk 08, Zeilen):** 142-145
+        - **Block-Name:** "Simple OpenAI Assistant"
+          - **Quelle (Chunk 08, Zeilen):** 152-155
+        - **Block-Name:** "Andy's Test API MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 157-160
+        - **Block-Name:** "SkySQL Integration"
+          - **Quelle (Chunk 08, Zeilen):** 162-165
+        - **Block-Name:** "Oracle Database Access Server"
+          - **Quelle (Chunk 08, Zeilen):** 172-175
+        - **Block-Name:** "Railway Infrastructure Manager"
+          - **Quelle (Chunk 08, Zeilen):** 182-185
+        - **Block-Name:** "Sitecore Server"
+          - **Quelle (Chunk 08, Zeilen):** 187-190
+        - **Block-Name:** "database-updater"
+          - **Quelle (Chunk 08, Zeilen):** 192-195
+        - **Block-Name:** "Apifox MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 202-205
+        - **Block-Name:** "WordPress Automation Server"
+          - **Quelle (Chunk 08, Zeilen):** 207-210
+        - **Block-Name:** "Appwrite MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 212-215
+        - **Block-Name:** "Appwrite MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 217-220
+        - **Block-Name:** "Axone MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 257-260
+        - **Block-Name:** "Azure AI Agent Service"
+          - **Quelle (Chunk 08, Zeilen):** 272-275
+        - **Block-Name:** "Azure MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 277-280
+        - **Block-Name:** "Scalable OpenAPI Endpoint Discovery and API Request Tool"
+          - **Quelle (Chunk 08, Zeilen):** 337-340
+        - **Block-Name:** "Agent Construct"
+          - **Quelle (Chunk 08, Zeilen):** 357-360
+        - **Block-Name:** "box3-engine-openapi-mcp"
+          - **Quelle (Chunk 08, Zeilen):** 407-410
+        - **Block-Name:** "Langflow"
+          - **Quelle (Chunk 08, Zeilen):** 457-460
+        - **Block-Name:** "Personel İzin Yönetim Sistemi"
+          - **Quelle (Chunk 08, Zeilen):** 262-265
+
+- [x] **5. Ziel-Datei: `mcp-servers/travel-transportation.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Airbnb Search and Listing Details Server"
+          - **Quelle (Chunk 08, Zeilen):** 37-40
+        - **Block-Name:** "Flight and Stay Search Server"
+          - **Quelle (Chunk 08, Zeilen):** 42-45
+        - **Block-Name:** "EcoGo-AI"
+          - **Quelle (Chunk 08, Zeilen):** 87-90
+
+- [x] **6. Ziel-Datei: `mcp-servers/finance-fintech.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Tradovate Tools"
+          - **Quelle (Chunk 08, Zeilen):** 67-70
+        - **Block-Name:** "PayPal Integration Server"
+          - **Quelle (Chunk 08, Zeilen):** 272-275
+        - **Block-Name:** "PayPal MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 277-280
+        - **Block-Name:** "Artemis MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 202-205
+        - **Block-Name:** "Stripe Server"
+          - **Quelle (Chunk 08, Zeilen):** 222-225
+        - **Block-Name:** "LemonSqueezy Integration Server"
+          - **Quelle (Chunk 08, Zeilen):** 227-230
+        - **Block-Name:** "Square API Server"
+          - **Quelle (Chunk 08, Zeilen):** 392-395
+        - **Block-Name:** "Flutterwave Integration Server"
+          - **Quelle (Chunk 08, Zeilen):** 282-285
+
+- [x] **7. Ziel-Datei: `mcp-servers/project-management.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "hh-jira-mcp-server"
+          - **Quelle (Chunk 08, Zeilen):** 72-75
+        - **Block-Name:** "TickTick API Server"
+          - **Quelle (Chunk 08, Zeilen):** 77-80
+        - **Block-Name:** "Godspeed Task Management Connector"
+          - **Quelle (Chunk 08, Zeilen):** 97-100
+        - **Block-Name:** "Google Tasks MCP"
+          - **Quelle (Chunk 08, Zeilen):** 110-113
+        - **Block-Name:** "Trello MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 147-150
+        - **Block-Name:** "Jira Context Server"
+          - **Quelle (Chunk 08, Zeilen):** 242-245
+        - **Block-Name:** "Jira Context Server"
+          - **Quelle (Chunk 08, Zeilen):** 247-250
+        - **Block-Name:** "Jira Integration Server"
+          - **Quelle (Chunk 08, Zeilen):** 312-315
+        - **Block-Name:** "Cursor"
+          - **Quelle (Chunk 08, Zeilen):** 322-325
+        - **Block-Name:** "Calendar Tools"
+          - **Quelle (Chunk 08, Zeilen):** 437-440
+        - **Block-Name:** "Desktop Notification Server"
+          - **Quelle (Chunk 08, Zeilen):** 447-450
+
+- [x] **8. Ziel-Datei: `mcp-servers/security.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Illumio MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 80-83
+        - **Block-Name:** "Vault MCP"
+          - **Quelle (Chunk 08, Zeilen):** 212-215
+        - **Block-Name:** "Auth0 Management Server"
+          - **Quelle (Chunk 08, Zeilen):** 292-295
+
+- [x] **9. Ziel-Datei: `mcp-servers/browser-automation.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "LinkedIn Browser"
+          - **Quelle (Chunk 08, Zeilen):** 85-88
+
+- [x] **10. Ziel-Datei: `mcp-servers/cloud-platforms.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "AWS MCP"
+          - **Quelle (Chunk 08, Zeilen):** 207-210
+
+- [x] **11. Ziel-Datei: `mcp-servers/other-tools.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "PlayFab Server"
+          - **Quelle (Chunk 08, Zeilen):** 45-48
+        - **Block-Name:** "Dropbox Integration Server"
+          - **Quelle (Chunk 08, Zeilen):** 60-63
+        - **Block-Name:** "Clockify Time Tracker"
+          - **Quelle (Chunk 08, Zeilen):** 65-68
+        - **Block-Name:** "Ads Manager"
+          - **Quelle (Chunk 08, Zeilen):** 117-120
+        - **Block-Name:** "Google Search Console Integration"
+          - **Quelle (Chunk 08, Zeilen):** 120-123
+        - **Block-Name:** "Jokes MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 167-170
+        - **Block-Name:** "SEO Automation and Optimization"
+          - **Quelle (Chunk 08, Zeilen):** 252-255
+        - **Block-Name:** "Axiom MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 267-270
+        - **Block-Name:** "Clusters API v1"
+          - **Quelle (Chunk 08, Zeilen):** 270-273
+        - **Block-Name:** "MLflow Prompt Registry Server"
+          - **Quelle (Chunk 08, Zeilen):** 275-278
+        - **Block-Name:** "Brev MCP server"
+          - **Quelle (Chunk 08, Zeilen):** 317-320
+        - **Block-Name:** "Bucket"
+          - **Quelle (Chunk 08, Zeilen):** 327-330
+        - **Block-Name:** "Notify Server"
+          - **Quelle (Chunk 08, Zeilen):** 332-335
+        - **Block-Name:** "Cloudzero"
+          - **Quelle (Chunk 08, Zeilen):** 337-340
+        - **Block-Name:** "YNAB Budget Assistant"
+          - **Quelle (Chunk 08, Zeilen):** 452-455
+        - **Block-Name:** "Bazi Calculator"
+          - **Quelle (Chunk 08, Zeilen):** 462-465
+        - **Block-Name:** "Search Intent Analysis Service"
+          - **Quelle (Chunk 08, Zeilen):** 472-475
+        - **Block-Name:** "Token Info Server"
+          - **Quelle (Chunk 08, Zeilen):** 477-480
+
+- [x] **12. Ziel-Datei: `mcp-servers/version-control.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "MCP Link - Convert Any OpenAPI V3 API to MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 297-300
+        - **Block-Name:** "OpenHands Project"
+          - **Quelle (Chunk 08, Zeilen):** 362-365
+
+- [x] **13. Ziel-Datei: `mcp-servers/workflow-automation.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Workflow Automation Server"
+          - **Quelle (Chunk 08, Zeilen):** 412-415
+
+- [x] **14. Ziel-Datei: `mcp-servers/marketing.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Marketing Automation Server"
+          - **Quelle (Chunk 08, Zeilen):** 387-390
+
+- [x] **15. Ziel-Datei: `mcp-servers/Databases/databases.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Database 1"
+          - **Quelle (Chunk 08, Zeilen):** 482-485
+        - **Block-Name:** "Database 2"
+          - **Quelle (Chunk 08, Zeilen):** 487-490
+        - **Block-Name:** "Database 3"
+          - **Quelle (Chunk 08, Zeilen):** 492-495
+        - **Block-Name:** "Database 4"
+          - **Quelle (Chunk 08, Zeilen):** 497-500
+        - **Block-Name:** "Database 5"
+          - **Quelle (Chunk 08, Zeilen):** 502-505
+        - **Block-Name:** "Database 6"
+          - **Quelle (Chunk 08, Zeilen):** 507-510
+        - **Block-Name:** "Database 7"
+          - **Quelle (Chunk 08, Zeilen):** 512-515
+        - **Block-Name:** "Database 8"
+          - **Quelle (Chunk 08, Zeilen):** 517-520
+        - **Block-Name:** "Database 9"
+          - **Quelle (Chunk 08, Zeilen):** 522-525
+        - **Block-Name:** "Database 10"
+          - **Quelle (Chunk 08, Zeilen):** 527-530
+        - **Block-Name:** "Database 11"
+          - **Quelle (Chunk 08, Zeilen):** 372-375
+
+- [x] **16. Ziel-Datei: `mcp-servers/business-tools.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Business Tools"
+          - **Quelle (Chunk 08, Zeilen):** 532-535
+        - **Block-Name:** "Business Tools"
+          - **Quelle (Chunk 08, Zeilen):** 205-208
+
+- [x] **17. Ziel-Datei: `mcp-servers/knowledge-memory.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Aindreyway Codex Keeper"
+          - **Quelle (Chunk 08, Zeilen):** 12-15
+        - **Block-Name:** "Wiki MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 47-50
+        - **Block-Name:** "Documentation Management Service"
+          - **Quelle (Chunk 08, Zeilen):** 62-65
+        - **Block-Name:** "Memory Box MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 122-125
+        - **Block-Name:** "Atlan Model Context Protocol Server"
+          - **Quelle (Chunk 08, Zeilen):** 227-230
+        - **Block-Name:** "Aindreyway Codex Keeper"
+          - **Quelle (Chunk 08, Zeilen):** 232-235
+
+- [x] **18. Ziel-Datei: `mcp-servers/ai-ml-tools.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Aindreyway Codex Keeper"
+          - **Quelle (Chunk 08, Zeilen):** 12-15
+        - **Block-Name:** "Wiki MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 47-50
+        - **Block-Name:** "Documentation Management Service"
+          - **Quelle (Chunk 08, Zeilen):** 62-65
+        - **Block-Name:** "Memory Box MCP Server"
+          - **Quelle (Chunk 08, Zeilen):** 122-125
+        - **Block-Name:** "Atlan Model Context Protocol Server"
+          - **Quelle (Chunk 08, Zeilen):** 227-230
+        - **Block-Name:** "Aindreyway Codex Keeper"
+          - **Quelle (Chunk 08, Zeilen):** 382-385
+
+- [x] **19. Index-Aktualisierung: `mcp-servers/`**
+    - **AKTION:** Aktualisiere die `index.md` in diesem Verzeichnis, um die Änderungen zu reflektieren.

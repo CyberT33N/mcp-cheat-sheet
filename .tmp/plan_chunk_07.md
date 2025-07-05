@@ -1,0 +1,311 @@
+# Abfahrtsplan für Chunk 07
+
+Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_07.md` in das Wissens-Repository.
+
+- [x] **1. Ziel-Datei: `mcp-servers/version-control.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "PR Reviewer"
+        - **Quelle (Chunk 07, Zeilen):** 2-5
+      - **Block-Name:** "GitHub MCP Server for Pera1"
+        - **Quelle (Chunk 07, Zeilen):** 7-10
+      - **Block-Name:** "Azure DevOps Integration"
+        - **Quelle (Chunk 07, Zeilen):** 12-15
+      - **Block-Name:** "Code Review"
+        - **Quelle (Chunk 07, Zeilen):** 17-20
+      - **Block-Name:** "GitHub中文排行榜"
+        - **Quelle (Chunk 07, Zeilen):** 22-25
+      - **Block-Name:** "Git MCP"
+        - **Quelle (Chunk 07, Zeilen):** 27-30
+      - **Block-Name:** "kkshaxqd GitHub Pages"
+        - **Quelle (Chunk 07, Zeilen):** 32-35
+      - **Block-Name:** "GitHub Actions MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 37-40
+      - **Block-Name:** "GitLab Merge Request Integration"
+        - **Quelle (Chunk 07, Zeilen):** 42-45
+      - **Block-Name:** "Helloworld"
+        - **Quelle (Chunk 07, Zeilen):** 47-50
+      - **Block-Name:** "GitHub Project Manager"
+        - **Quelle (Chunk 07, Zeilen):** 52-55
+      - **Block-Name:** "GitHub Repository Access Server"
+        - **Quelle (Chunk 07, Zeilen):** 57-60
+      - **Block-Name:** "GitHub API MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 62-65
+      - **Block-Name:** "GitHub API Server"
+        - **Quelle (Chunk 07, Zeilen):** 67-70
+      - **Block-Name:** "Bitbucket MCP"
+        - **Quelle (Chunk 07, Zeilen):** 72-75
+      - **Block-Name:** "GitHub Actions Server"
+        - **Quelle (Chunk 07, Zeilen):** 77-80
+      - **Block-Name:** "GitHub Workflow Debugger"
+        - **Quelle (Chunk 07, Zeilen):** 82-85
+      - **Block-Name:** "GitHub Notifications Server"
+        - **Quelle (Chunk 07, Zeilen):** 87-90
+      - **Block-Name:** "GitLab Code Review Integration"
+        - **Quelle (Chunk 07, Zeilen):** 92-95
+      - **Block-Name:** "Test Gru"
+        - **Quelle (Chunk 07, Zeilen):** 97-100
+      - **Block-Name:** "GitHub API Server"
+        - **Quelle (Chunk 07, Zeilen):** 102-105
+      - **Block-Name:** "Cross-System Agent Communication Server"
+        - **Quelle (Chunk 07, Zeilen):** 107-110
+      - **Block-Name:** "MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 112-115
+      - **Block-Name:** "Git Commit Aider"
+        - **Quelle (Chunk 07, Zeilen):** 117-120
+      - **Block-Name:** "Yellhorn"
+        - **Quelle (Chunk 07, Zeilen):** 122-125
+      - **Block-Name:** "GitHub MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 127-130
+      - **Block-Name:** "GitLab MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 132-135
+      - **Block-Name:** "Gitingest Server"
+        - **Quelle (Chunk 07, Zeilen):** 137-140
+      - **Block-Name:** "A git MCP server"
+        - **Quelle (Chunk 07, Zeilen):** 142-145
+      - **Block-Name:** "GitHub API MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 147-150
+      - **Block-Name:** "GitHub Action Trigger"
+        - **Quelle (Chunk 07, Zeilen):** 152-155
+      - **Block-Name:** "Release Notes Server"
+        - **Quelle (Chunk 07, Zeilen):** 157-160
+      - **Block-Name:** "Daytona Python Interpreter"
+        - **Quelle (Chunk 07, Zeilen):** 162-165
+      - **Block-Name:** "Daytona Python Interpreter"
+        - **Quelle (Chunk 07, Zeilen):** 167-170
+      - **Block-Name:** "Gitee MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 172-175
+      - **Block-Name:** "GitHub Tools"
+        - **Quelle (Chunk 07, Zeilen):** 177-180
+      - **Block-Name:** "Backlog Server"
+        - **Quelle (Chunk 07, Zeilen):** 182-185
+      - **Block-Name:** "GitHub Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 187-190
+      - **Block-Name:** "Gitee MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 192-195
+      - **Block-Name:** "Source Tree Server"
+        - **Quelle (Chunk 07, Zeilen):** 197-200
+      - **Block-Name:** "GitLab Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 202-205
+      - **Block-Name:** "Github MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 207-210
+      - **Block-Name:** "GitHub MCP Server Plus"
+        - **Quelle (Chunk 07, Zeilen):** 212-215
+      - **Block-Name:** "GitHub Enterprise MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 217-220
+      - **Block-Name:** "GitHub MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 222-225
+      - **Block-Name:** "MCP RAG Server"
+        - **Quelle (Chunk 07, Zeilen):** 227-230
+      - **Block-Name:** "Gitingest MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 232-235
+      - **Block-Name:** "GitHub Advanced Security Server"
+        - **Quelle (Chunk 07, Zeilen):** 237-240
+      - **Block-Name:** "Git Repository Browser"
+        - **Quelle (Chunk 07, Zeilen):** 242-245
+      - **Block-Name:** "GitHub Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 247-250
+      - **Block-Name:** "GitHub API MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 252-255
+      - **Block-Name:** "GitLab Server"
+        - **Quelle (Chunk 07, Zeilen):** 257-260
+      - **Block-Name:** "Documentation Generator"
+        - **Quelle (Chunk 07, Zeilen):** 262-265
+      - **Block-Name:** "Gitee MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 267-270
+      - **Block-Name:** "GitHub Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 272-275
+      - **Block-Name:** "GitHub Trending Fetcher"
+        - **Quelle (Chunk 07, Zeilen):** 277-280
+      - **Block-Name:** "GitHub Repo MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 282-285
+      - **Block-Name:** "Git Spice MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 287-290
+      - **Block-Name:** "GitHub Issue"
+        - **Quelle (Chunk 07, Zeilen):** 292-295
+      - **Block-Name:** "Introduction to GitHub"
+        - **Quelle (Chunk 07, Zeilen):** 297-300
+
+- [x] **2. Ziel-Datei: `mcp-servers/project-management.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "Aider MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 302-305
+      - **Block-Name:** "GitHub PR Comments Server"
+        - **Quelle (Chunk 07, Zeilen):** 307-310
+      - **Block-Name:** "GitHub Repository Context"
+        - **Quelle (Chunk 07, Zeilen):** 312-315
+      - **Block-Name:** "Git MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 317-320
+      - **Block-Name:** "AI Pull Request Generator"
+        - **Quelle (Chunk 07, Zeilen):** 322-325
+      - **Block-Name:** "GIT-Pilot"
+        - **Quelle (Chunk 07, Zeilen):** 327-330
+      - **Block-Name:** "Windows CLI Server"
+        - **Quelle (Chunk 07, Zeilen):** 332-335
+      - **Block-Name:** "Git Stuff Server"
+        - **Quelle (Chunk 07, Zeilen):** 337-340
+      - **Block-Name:** "Sourcebot Code Search Server"
+        - **Quelle (Chunk 07, Zeilen):** 342-345
+      - **Block-Name:** "AI Commit Message Generator"
+        - **Quelle (Chunk 07, Zeilen):** 347-350
+      - **Block-Name:** "Aira MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 352-355
+      - **Block-Name:** "GitHub Kanban Server"
+        - **Quelle (Chunk 07, Zeilen):** 357-360
+      - **Block-Name:** "Iris MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 362-365
+      - **Block-Name:** "GitLab Kanban Server"
+        - **Quelle (Chunk 07, Zeilen):** 367-370
+      - **Block-Name:** "mcp-server-gitlab"
+        - **Quelle (Chunk 07, Zeilen):** 372-375
+      - **Block-Name:** "MCP GitHub Projects"
+        - **Quelle (Chunk 07, Zeilen):** 377-380
+      - **Block-Name:** "GitHub MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 382-385
+      - **Block-Name:** "GitHub API MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 387-390
+      - **Block-Name:** "CodeSavant"
+        - **Quelle (Chunk 07, Zeilen):** 392-395
+      - **Block-Name:** "GitHub Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 397-400
+      - **Block-Name:** "GitHub Enterprise License Insights"
+        - **Quelle (Chunk 07, Zeilen):** 402-405
+      - **Block-Name:** "GitHub Repository Explorer"
+        - **Quelle (Chunk 07, Zeilen):** 407-410
+      - **Block-Name:** "SSAFY Project Summary"
+        - **Quelle (Chunk 07, Zeilen):** 412-415
+      - **Block-Name:** "GitHub Explorer"
+        - **Quelle (Chunk 07, Zeilen):** 417-420
+      - **Block-Name:** "Introduction to GitHub"
+        - **Quelle (Chunk 07, Zeilen):** 422-425
+      - **Block-Name:** "GitHub MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 427-430
+      - **Block-Name:** "AI Development Assistant"
+        - **Quelle (Chunk 07, Zeilen):** 432-435
+      - **Block-Name:** "Yunxiao DevOps Server"
+        - **Quelle (Chunk 07, Zeilen):** 437-440
+      - **Block-Name:** "GitLab MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 442-445
+      - **Block-Name:** "GitLab communication server"
+        - **Quelle (Chunk 07, Zeilen):** 447-450
+      - **Block-Name:** "Toolkit"
+        - **Quelle (Chunk 07, Zeilen):** 452-455
+
+- [x] **3. Ziel-Datei: `mcp-servers/business-tools.md`**
+  - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+  - **BLOCKS:**
+      - **Block-Name:** "Twitter Interaction Server"
+        - **Quelle (Chunk 07, Zeilen):** 457-460
+      - **Block-Name:** "Tradovate"
+        - **Quelle (Chunk 07, Zeilen):** 462-465
+      - **Block-Name:** "Job Searchoor MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 467-470
+      - **Block-Name:** "PowerPoint Presentation Automation Server"
+        - **Quelle (Chunk 07, Zeilen):** 472-475
+      - **Block-Name:** "EOM Department Vue Application"
+        - **Quelle (Chunk 07, Zeilen):** 477-480
+      - **Block-Name:** "Supabase MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 482-485
+      - **Block-Name:** "Jira Server"
+        - **Quelle (Chunk 07, Zeilen):** 487-490
+      - **Block-Name:** "One MCP"
+        - **Quelle (Chunk 07, Zeilen):** 492-495
+      - **Block-Name:** "Qiita MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 497-500
+      - **Block-Name:** "Work-Related"
+        - **Quelle (Chunk 07, Zeilen):** 502-505
+      - **Block-Name:** "DART Financial Data Server"
+        - **Quelle (Chunk 07, Zeilen):** 507-510
+      - **Block-Name:** "그저디버깅용"
+        - **Quelle (Chunk 07, Zeilen):** 512-515
+      - **Block-Name:** "Make MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 517-520
+      - **Block-Name:** "Fujitsu Social Digital Twin Server"
+        - **Quelle (Chunk 07, Zeilen):** 522-525
+      - **Block-Name:** "RuoYi Vue Pig"
+        - **Quelle (Chunk 07, Zeilen):** 527-530
+      - **Block-Name:** "ActivityWatch MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 532-535
+      - **Block-Name:** "Google Docs Server"
+        - **Quelle (Chunk 07, Zeilen):** 537-540
+      - **Block-Name:** "GitSkills"
+        - **Quelle (Chunk 07, Zeilen):** 542-545
+      - **Block-Name:** "QuickBooks Time MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 547-550
+      - **Block-Name:** "Targetprocess MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 552-555
+      - **Block-Name:** "Google Workspace MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 557-560
+      - **Block-Name:** "Google Workspace MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 562-565
+      - **Block-Name:** "Confluence Cloud"
+        - **Quelle (Chunk 07, Zeilen):** 567-570
+      - **Block-Name:** "Jira Insights"
+        - **Quelle (Chunk 07, Zeilen):** 572-575
+      - **Block-Name:** "AWS Cost Explorer"
+        - **Quelle (Chunk 07, Zeilen):** 577-580
+      - **Block-Name:** "Atlassian Bitbucket Integration"
+        - **Quelle (Chunk 07, Zeilen):** 582-585
+      - **Block-Name:** "Atlassian Confluence Integration"
+        - **Quelle (Chunk 07, Zeilen):** 587-590
+      - **Block-Name:** "Atlassian Jira Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 592-595
+      - **Block-Name:** "Lightning Network MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 597-600
+      - **Block-Name:** "RetellAI Voice Service Integration"
+        - **Quelle (Chunk 07, Zeilen):** 602-605
+      - **Block-Name:** "Email Verification"
+        - **Quelle (Chunk 07, Zeilen):** 607-610
+      - **Block-Name:** "AIHub"
+        - **Quelle (Chunk 07, Zeilen):** 612-615
+      - **Block-Name:** "Gatherings MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 617-620
+      - **Block-Name:** "Todoist MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 622-625
+      - **Block-Name:** "Taskeract Server"
+        - **Quelle (Chunk 07, Zeilen):** 627-630
+      - **Block-Name:** "OmniTaskAgent"
+        - **Quelle (Chunk 07, Zeilen):** 632-635
+      - **Block-Name:** "Activepieces"
+        - **Quelle (Chunk 07, Zeilen):** 637-640
+      - **Block-Name:** "GraphQL Policies API"
+        - **Quelle (Chunk 07, Zeilen):** 642-645
+      - **Block-Name:** "Atlassian Integration"
+        - **Quelle (Chunk 07, Zeilen):** 647-650
+      - **Block-Name:** "Fabric Pattern Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 652-655
+      - **Block-Name:** "TeamRetro MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 657-660
+      - **Block-Name:** "Raindrop.io Bookmark Manager"
+        - **Quelle (Chunk 07, Zeilen):** 662-665
+      - **Block-Name:** "Google Workspace Server"
+        - **Quelle (Chunk 07, Zeilen):** 667-670
+      - **Block-Name:** "Google Workspace Server"
+        - **Quelle (Chunk 07, Zeilen):** 672-675
+      - **Block-Name:** "LinkedIn Interaction Server"
+        - **Quelle (Chunk 07, Zeilen):** 677-680
+      - **Block-Name:** "Hilanet"
+        - **Quelle (Chunk 07, Zeilen):** 682-685
+      - **Block-Name:** "Harvest Natural Language Time Entry Server"
+        - **Quelle (Chunk 07, Zeilen):** 687-690
+      - **Block-Name:** "Supabase MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 692-695
+      - **Block-Name:** "JLCPCB Parts Server"
+        - **Quelle (Chunk 07, Zeilen):** 697-700
+      - **Block-Name:** "Teams Messenger Integration Server"
+        - **Quelle (Chunk 07, Zeilen):** 702-705
+      - **Block-Name:** "Aegntic MCP Servers"
+        - **Quelle (Chunk 07, Zeilen):** 707-710
+      - **Block-Name:** "Practices MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 712-715
+      - **Block-Name:** "AgentMail MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 717-720
+      - **Block-Name:** "Elementor MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 722-725
+      - **Block-Name:** "AgentMail Toolkit"
+        - **Quelle (Chunk 07, Zeilen):** 727-730
+      - **Block-Name:** "Seq MCP Server"
+        - **Quelle (Chunk 07, Zeilen):** 732-735
+      - **Block-Name:** "Google Search Console"
+        - **Quelle (Chunk 07, Zeilen):** 737-740 

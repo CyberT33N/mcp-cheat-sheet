@@ -1,0 +1,155 @@
+# Abfahrtsplan für Chunk 06
+
+Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_06.md` in das Wissens-Repository.
+
+- [x] **1. Ziel-Datei: `mcp-servers/location-services.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Weather MCP Service"
+          - **Quelle (Chunk 06, Zeilen):** 2-5
+        - **Block-Name:** "EdgeOne Geo Location Server"
+          - **Quelle (Chunk 06, Zeilen):** 7-10
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 18-21
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 23-26
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 28-31
+        - **Block-Name:** "OpenStreetMap Server"
+          - **Quelle (Chunk 06, Zeilen):** 33-36
+        - **Block-Name:** "Weather & Stock Data Server"
+          - **Quelle (Chunk 06, Zeilen):** 38-41
+        - **Block-Name:** "Korea Weather"
+          - **Quelle (Chunk 06, Zeilen):** 43-46
+        - **Block-Name:** "Juhe Weather"
+          - **Quelle (Chunk 06, Zeilen):** 52-55
+        - **Block-Name:** "Cool Weather Test"
+          - **Quelle (Chunk 06, Zeilen):** 60-63
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 65-68
+        - **Block-Name:** "Gaode Weather"
+          - **Quelle (Chunk 06, Zeilen):** 70-73
+        - **Block-Name:** "EdgeOne Geo Location Server"
+          - **Quelle (Chunk 06, Zeilen):** 75-78
+        - **Block-Name:** "WhereAmI"
+          - **Quelle (Chunk 06, Zeilen):** 84-87
+        - **Block-Name:** "WhatTimeIsIt"
+          - **Quelle (Chunk 06, Zeilen):** 89-92
+        - **Block-Name:** "HRFCO Service"
+          - **Quelle (Chunk 06, Zeilen):** 94-97
+        - **Block-Name:** "Weather Server"
+          - **Quelle (Chunk 06, Zeilen):** 103-106
+        - **Block-Name:** "NASA Data Query Tool"
+          - **Quelle (Chunk 06, Zeilen):** 108-111
+        - **Block-Name:** "Emergency Medicare Management"
+          - **Quelle (Chunk 06, Zeilen):** 113-116
+        - **Block-Name:** "彩云天气"
+          - **Quelle (Chunk 06, Zeilen):** 118-121
+        - **Block-Name:** "AQICN MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 123-126
+        - **Block-Name:** "Weather"
+          - **Quelle (Chunk 06, Zeilen):** 128-131
+        - **Block-Name:** "Helper Tools"
+          - **Quelle (Chunk 06, Zeilen):** 133-136
+        - **Block-Name:** "Weather MCP Tool"
+          - **Quelle (Chunk 06, Zeilen):** 142-145
+        - **Block-Name:** "Google Maps MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 147-150
+        - **Block-Name:** "Travel Planner Server"
+          - **Quelle (Chunk 06, Zeilen):** 152-155
+        - **Block-Name:** "Travel Planner Server"
+          - **Quelle (Chunk 06, Zeilen):** 157-160
+        - **Block-Name:** "Mapbox MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 162-165
+        - **Block-Name:** "Earthdata MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 167-170
+        - **Block-Name:** "OpenStreetMap Integration"
+          - **Quelle (Chunk 06, Zeilen):** 172-175
+        - **Block-Name:** "Korea Weather"
+          - **Quelle (Chunk 06, Zeilen):** 177-180
+        - **Block-Name:** "QWeather API MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 182-185
+        - **Block-Name:** "IP Geolocation Lookup Server"
+          - **Quelle (Chunk 06, Zeilen):** 202-205
+        - **Block-Name:** "Surf MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 210-213
+        - **Block-Name:** "Weather MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 215-218
+        - **Block-Name:** "Weekly Weather Server"
+          - **Quelle (Chunk 06, Zeilen):** 220-223
+        - **Block-Name:** "NOAA Tides and Currents"
+          - **Quelle (Chunk 06, Zeilen):** 225-228
+        - **Block-Name:** "Weather MCP Tool"
+          - **Quelle (Chunk 06, Zeilen):** 230-233
+        - **Block-Name:** "Vilnius Transport"
+          - **Quelle (Chunk 06, Zeilen):** 235-238
+        - **Block-Name:** "Weather"
+          - **Quelle (Chunk 06, Zeilen):** 240-243
+        - **Block-Name:** "Weather"
+          - **Quelle (Chunk 06, Zeilen):** 245-248
+        - **Block-Name:** "SSE-based Server and Client"
+          - **Quelle (Chunk 06, Zeilen):** 250-253
+        - **Block-Name:** "Stargazing"
+          - **Quelle (Chunk 06, Zeilen):** 255-258
+        - **Block-Name:** "Taiwan Central Weather Administration Weather MCP"
+          - **Quelle (Chunk 06, Zeilen):** 260-263
+        - **Block-Name:** "天气查询服务"
+          - **Quelle (Chunk 06, Zeilen):** 269-272
+        - **Block-Name:** "Weather Service"
+          - **Quelle (Chunk 06, Zeilen):** 278-281
+        - **Block-Name:** "WeatherAPI Server"
+          - **Quelle (Chunk 06, Zeilen):** 283-286
+        - **Block-Name:** "Weather Server"
+          - **Quelle (Chunk 06, Zeilen):** 288-291
+        - **Block-Name:** "EdgeOne Geo Location Server"
+          - **Quelle (Chunk 06, Zeilen):** 293-296
+        - **Block-Name:** "Weather Forecast Server"
+          - **Quelle (Chunk 06, Zeilen):** 298-301
+
+- [x] **2. Ziel-Datei: `mcp-servers/developer-tools.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Tool Builder"
+          - **Quelle (Chunk 06, Zeilen):** 12-15
+        - **Block-Name:** "Customized MCP Project"
+          - **Quelle (Chunk 06, Zeilen):** 138-141
+        - **Block-Name:** "Slim MCP"
+          - **Quelle (Chunk 06, Zeilen):** 210-213
+
+- [x] **3. Ziel-Datei: `mcp-servers/travel-transportation.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Korea Tourism API"
+          - **Quelle (Chunk 06, Zeilen):** 12-15
+        - **Block-Name:** "Berlin Transport Server"
+          - **Quelle (Chunk 06, Zeilen):** 18-21
+        - **Block-Name:** "DB Timetable Server"
+          - **Quelle (Chunk 06, Zeilen):** 48-51
+        - **Block-Name:** "KMB Bus"
+          - **Quelle (Chunk 06, Zeilen):** 57-60
+        - **Block-Name:** "SNCF API Server"
+          - **Quelle (Chunk 06, Zeilen):** 80-83
+        - **Block-Name:** "National Parks Server"
+          - **Quelle (Chunk 06, Zeilen):** 99-102
+        - **Block-Name:** "Tripadvisor MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 187-190
+        - **Block-Name:** "Formula1 MCP Server"
+          - **Quelle (Chunk 06, Zeilen):** 192-195
+        - **Block-Name:** "TfNSW Realtime Alerts"
+          - **Quelle (Chunk 06, Zeilen):** 197-200
+        - **Block-Name:** "KoreaSeoul"
+          - **Quelle (Chunk 06, Zeilen):** 202-205
+        - **Block-Name:** "ArcGIS Location Services"
+          - **Quelle (Chunk 06, Zeilen):** 207-210
+        - **Block-Name:** "NS Travel Information Server"
+          - **Quelle (Chunk 06, Zeilen):** 215-218
+        - **Block-Name:** "Flightradar24 Server"
+          - **Quelle (Chunk 06, Zeilen):** 274-277
+        - **Block-Name:** "JR East Delay Information Server"
+          - **Quelle (Chunk 06, Zeilen):** 303-306
+        - **Block-Name:** "Variflight Flight Information Server"
+          - **Quelle (Chunk 06, Zeilen):** 308-311
+        - **Block-Name:** "osgEarth"
+          - **Quelle (Chunk 06, Zeilen):** 318-321
+        - **Block-Name:** "TMAP API Connector"
+          - **Quelle (Chunk 06, Zeilen):** 329-332 

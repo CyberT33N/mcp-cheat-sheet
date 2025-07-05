@@ -1,8 +1,22 @@
 # Knowledge & Memory
 
-Diese MCP-Server ermöglichen den Zugriff auf und die Speicherung von Wissen und Gedächtnis. Sie dienen als externe Wissensdatenbanken für KI-Modelle.
+Diese MCP-Server ermöglichen die Integration mit Wissensmanagement- und Speicher-Tools.
 
 ## Verfügbare Server
+
+- <img src="https://github.com/aindreyway.png?size=120" width="12px" height="12px" /> **[Aindreyway Codex Keeper](https://github.com/aindreyway/mcp-codex-keeper)** - Curated access to the latest development documentation and best practices for AI assistants, facilitating knowledge retrieval and application of current industry standards.
+- <img src="https://github.com/albertshao.png?size=120" width="12px" height="12px" /> **[Wiki MCP Server](https://github.com/albertshao/wiki_mcp_server)** - Manage Confluence wiki pages by creating, updating, deleting, and searching them through a unified interface. Automatically selects the relevant knowledge base based on user queries to enhance content management efficiency.
+- <img src="https://github.com/alekspetrov.png?size=120" width="12px" height="12px" /> **[Documentation Management Service](https://github.com/alekspetrov/mcp-docs-service)** - Manage markdown documentation by creating, reading, updating, and deleting files while analyzing their health and improving quality. Enhance AI assistants' interactions with documentation through natural language processing capabilities.
+- <img src="https://github.com/amotivv.png?size=120" width="12px" height="12px" /> **[Memory Box MCP Server](https://github.com/amotivv/memory-box-mcp)** - Manage and retrieve memories using advanced semantic search capabilities, enabling efficient organization and structured formatting of memory data. Integrate with Cline and Claude for enhanced memory management functionalities.
+- <img src="https://github.com/atlanhq.png?size=120" width="12px" height="12px" /> **[Atlan Model Context Protocol Server](https://github.com/atlanhq/agent-toolkit)** - Facilitates interaction with Atlan services through a standardized protocol, enabling efficient asset search and retrieval using DSL queries, as well as exploration of asset lineage. Integrates with Claude Desktop to streamline data management workflows.
+- <img src="https://github.com/asleep-ai.png?size=120" width="12px" height="12px" /> **[AST Model Context Protocol Server](https://github.com/asleep-ai/ast-mcp)** - Integrates language models with various tools and data sources to facilitate real-time data access and action execution. Supports dynamic workflows and efficient interaction with structured input and output handling.
+- <img src="https://github.com/Asunaro276.png?size=120" width="12px" height="12px" /> **[Asunaro Blog](https://github.com/Asunaro276/asunaro-blog)** - A personal blog server built with Astro and React, optimized for fast performance and static site generation. Utilizes Tailwind CSS for responsive design and offers integration with a headless CMS for content management.
+- <img src="https://github.com/asifdotpy.png?size=120" width="12px" height="12px" /> **[GitHub MCP Server](https://github.com/asifdotpy/github-mcp-server)** - Integrates with GitHub APIs for advanced automation and interaction capabilities for developers. Facilitates repository management, issue tracking, and workflow automation.
+- <img src="https://github.com/a-bonus.png?size=120" width="12px" height="12px" /> **[Quip Document MCP Server](https://github.com/a-bonus/quip-mcp)** - Interact directly with Quip documents to read, append, prepend, and replace content, enhancing document management capabilities for AI assistants.
+- <img src="https://github.com/awkoy.png?size=120" width="12px" height="12px" /> **[Notion MCP Server](https://github.com/awkoy/notion-mcp-server)** - Integrates with Notion's API to facilitate the creation, updating, and management of pages and blocks. Enables AI interactions with Notion databases and supports batch operations for enhanced productivity.
+- <img src="https://github.com/aukik.png?size=120" width="12px" height="12px" /> **[ClickUp Task Integration Server](https://github.com/aukik/clickup-mcp-server)** - Manage and interact with ClickUp tasks, spaces, lists, and folders using natural language commands. Streamline task management, time tracking, and document handling through a standardized protocol for AI applications.
+- <img src="https://github.com/BitteProtocol.png?size=120" width="12px" height="12px" /> **[Bitte AI Integration](https://github.com/BitteProtocol/mcp)** - Integrate with Bitte AI to enhance applications using advanced capabilities, allowing for streamlined interactions and improved functionality across various services.
+- <img src="https://github.com/Badhansen.png?size=120" width="12px" height="12px" /> **[Notion MCP](https://github.com/Badhansen/notion-mcp)** - Manage personal to-do lists using Notion's API, enabling task addition, updates, and viewing directly within the workspace. Integrates with a Model Context Protocol server for efficient task management.
 
 - [jondold/mcp-server-obsidian](https://github.com/jondold/mcp-server-obsidian) 📇 🏠 - Obsidian knowledge base integration with vault access and note querying
 - [obytes/mcp-server-markdown](https://github.com/obytes/mcp-server-markdown) 🐍 🏠 - Markdown document management with search and content extraction
@@ -38,3 +52,172 @@ Diese MCP-Server ermöglichen den Zugriff auf und die Speicherung von Wissen und
 - <img src="https://github.com/pl728.png?size=120" width="12px" height="12px" /> **[Substack Reader](https://github.com/pl728/substack-fetcher-mcp)** - Fetch and read articles from Trade Companion by Adam Mancini on Substack, providing access to subscriber-only content in a clean, readable format. It integrates with Claude AI for an enhanced reading experience.
 - <img src="https://github.com/pbteja1998.png?size=120" width="12px" height="12px" /> **[SourceSync.ai MCP Server](https://github.com/pbteja1998/sourcesyncai-mcp)** - Integrates with a knowledge management platform to manage and organize documents, ingest content from various sources, and perform semantic and hybrid searches. Facilitates connections to external services for enhanced data retrieval and document management.
 - <img src="https://github.com/michalnaka.png?size=120" width="12px" height="12px" /> **[Substack Server](https://github.com/michalnaka/mcp-substack)** - Download and summarize public Substack posts by extracting titles, authors, subtitles, and content directly within workflows.
+- <img src="https://github.com/a2888409.png?size=120" width="12px" height="12px" /> **[Epoll-based HTTP Server](https://github.com/a2888409/CSAPP)** - A high-performance HTTP server utilizing the epoll model for efficient connection and task management, supporting event-driven architecture and timer management for handling inactive connections. Includes implementations of memory allocation, a simple proxy server, and a basic shell for process management and signal handling.
+
+- <img src="https://github.com/aakarsh-sasi.png?size=120" width="12px" height="12px" /> **[Memory Bank](https://github.com/aakarsh-sasi/memory-bank-mcp)** - Manage AI assistant's context across sessions by storing, retrieving, and tracking information with remote server support for improved collaboration and persistence.
+
+- <img src="https://github.com/AgentWong.png?size=120" width="12px" height="12px" /> **[Optimized Memory Server](https://github.com/AgentWong/optimized-memory-mcp-server)** - Enables persistent memory capabilities for AI interactions, allowing the model to remember user information and enhance personalization through a local knowledge graph that manages entities, relations, and observations.
+
+- <img src="https://github.com/AgentWong.png?size=120" width="12px" height="12px" /> **[IaC Memory Server](https://github.com/AgentWong/iac-memory-mcp-server-project)** - Provides persistent memory storage and version tracking for Infrastructure-as-Code components, focusing on Terraform and Ansible resources with relationship mapping.
+
+- <img src="https://github.com/alioshr.png?size=120" width="12px" height="12px" /> **[Memory Bank Server](https://github.com/alioshr/memory-bank-mcp)** - Manage project memory banks remotely and efficiently, enabling streamlined access and manipulation of memory data.
+
+- <img src="https://github.com/amotivv.png?size=120" width="12px" height="12px" /> **[Memory Box MCP Server](https://github.com/amotivv/memory-box-mcp)** - Manage and retrieve memories using advanced semantic search capabilities, enabling efficient organization and structured formatting of memory data. Integrate with Cline and Claude for enhanced memory management functionalities.
+
+- <img src="https://github.com/ArchimedesCrypto.png?size=120" width="12px" height="12px" /> **[Figma MCP Server with Chunking](https://github.com/ArchimedesCrypto/figma-mcp-chunked)** - Efficiently interact with the Figma API, utilizing memory-aware chunking and pagination to manage and process large Figma files. This enables effective handling of extensive design documents and resource-intensive operations.
+
+- <img src="https://github.com/aiurda.png?size=120" width="12px" height="12px" /> **[Cursor10x Memory System](https://github.com/aiurda/cursor10x-mcp)** - Offers a project-centric database for managing contextual information throughout development workflows. Facilitates seamless retrieval and recall of project context, enhancing productivity and fostering intelligent code connections.
+
+- <img src="https://github.com/honeybluesky.png?size=120" width="12px" height="12px" /> **[My Apple Remembers](https://github.com/honeybluesky/my-apple-remembers)** - Recalls and saves memories from Apple Notes, accessing notes, calendar events, messages, and files on macOS. Facilitates the persistence of important information for future reference with minimal setup.
+
+- <img src="https://github.com/basicmachines-co.png?size=120" width="12px" height="12px" /> **[Basic Memory](https://github.com/basicmachines-co/basic-memory)** - Enables persistent knowledge management through natural language conversations with LLMs by reading and writing to local Markdown files. Facilitates contextual awareness across sessions while maintaining a user-controlled knowledge base with a simple local-first approach.
+
+- <img src="https://github.com/bneil.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/bneil/mcp-memory-pouchdb)** - Manage and enhance interactions with contextual information using a robust knowledge graph. It captures, stores, and retrieves data seamlessly with PouchDB for improved consistency and organization by project-specific paths.
+
+- <img src="https://github.com/boorich.png?size=120" width="12px" height="12px" /> **[Human Loop Server](https://github.com/boorich/mcp-human-loop)** - Manage human-agent collaboration by using a sequential scoring system to evaluate and determine the necessity of human intervention in AI operations based on complexity and sensitivity of requests.
+
+- <img src="https://github.com/bornpresident.png?size=120" width="12px" height="12px" /> **[Volatility MCP Server](https://github.com/bornpresident/Volatility-MCP-Server)** - Analyze memory dumps using natural language queries to facilitate forensic investigations, reducing the need for technical expertise while accelerating the analysis process and improving cybersecurity responses.
+
+- <img src="https://github.com/BRO3886.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/BRO3886/mcp-memory-custom)** - Manage and enhance user interactions with a customizable knowledge graph, capturing and organizing these interactions with timestamps for improved context and project-specific memory management.
+
+- <img src="https://github.com/CheMiguel23.png?size=120" width="12px" height="12px" /> **[MemoryMesh](https://github.com/CheMiguel23/MemoryMesh)** - Stores, updates, and recalls structured information using a dynamic schema, enabling relationship management for entities such as characters, locations, and items in a knowledge graph format. Designed specifically for text-based RPGs and interactive storytelling, it helps maintain consistent memory across conversations.
+
+- <img src="https://github.com/ChrisL108.png?size=120" width="12px" height="12px" /> **[Outline Document Search Server](https://github.com/ChrisL108/outline-mcp)** - Search and retrieve documents from Outline knowledge bases, facilitating access to internal documentation. Supports secure access via interactive credentials and environment variables.
+
+- <img src="https://github.com/chroma-core.png?size=120" width="12px" height="12px" /> **[Chroma MCP Server](https://github.com/chroma-core/chroma-mcp)** - Integrates vector database capabilities for managing collections, performing semantic searches, and retrieving data with advanced filtering. Enhances AI models with powerful data retrieval features to improve context and performance.
+
+- <img src="https://github.com/coleam00.png?size=120" width="12px" height="12px" /> **[Long-Term Memory for AI Agents](https://github.com/coleam00/mcp-mem0)** - Enables AI agents to store, retrieve, and search memories using semantic indexing for efficient memory management, enhancing contextual awareness.
+
+- <img src="https://github.com/davidteren.png?size=120" width="12px" height="12px" /> **[Claude Server](https://github.com/davidteren/claude-server)** - Manages project-specific contexts and maintains conversation continuity with hierarchical structures and metadata tagging. Facilitates quick retrieval for efficient workflows within specified project contexts.
+
+- <img src="https://github.com/davioliveeira.png?size=120" width="12px" height="12px" /> **[Memory Server](https://github.com/davioliveeira/memory-mcp)** - Store and retrieve memories efficiently using SQLite as the backend. Offers tools for managing memories, including functions to remember, get, list, update, and delete entries, along with command-line inspection capabilities.
+
+- <img src="https://github.com/ddkang1.png?size=120" width="12px" height="12px" /> **[Memory Server with Knowledge Graph](https://github.com/ddkang1/mcp-mem)** - Provides session-based memory management for chat applications using an efficient knowledge graph to search and retrieve information from multiple sources, including uploaded files.
+
+- <img src="https://github.com/delorenj.png?size=120" width="12px" height="12px" /> **[Memory Server with Qdrant Persistence](https://github.com/delorenj/mcp-qdrant-memory)** - A knowledge graph implementation that supports semantic search with a Qdrant vector database, enabling effective graph-based representation of entities and their relations. It includes features for file-based persistence and utilizes OpenAI embeddings for enhanced semantic similarity.
+
+- <img src="https://github.com/devassistantai.png?size=120" width="12px" height="12px" /> **[Knowledge Memory Server](https://github.com/devassistantai/mcp-servers)** - Store and retrieve user information across chats using a local knowledge graph to enable persistent memory for an AI assistant. Manage entities, relations, and observations to personalize interactions effectively.
+
+- <img src="https://github.com/Din-djarin2.png?size=120" width="12px" height="12px" /> **[Memory Bank Server](https://github.com/Din-djarin2/memory-bank-mcp)** - Manage and access project memory banks remotely with centralized control, supporting multi-project operations with secure isolation and consistent file structure enforcement. Perform memory bank operations including reading, writing, and listing files across projects through a type-safe MCP interface.
+
+- <img src="https://github.com/divslingerx.png?size=120" width="12px" height="12px" /> **[Memory Store](https://github.com/divslingerx/mcp-server)** - Provides web search capabilities using Puppeteer, returning structured JSON results from Google searches in a lightweight and stateless design.
+
+- <img src="https://github.com/docdyhr.png?size=120" width="12px" height="12px" /> **[Simplenote MCP Server](https://github.com/docdyhr/simplenote-mcp-server)** - Connect and manage your Simplenote notes, enabling actions like creating, updating, and deleting notes directly from LLM applications.
+
+- <img src="https://github.com/doggybee.png?size=120" width="12px" height="12px" /> **[Memo Server for Session Memory Management](https://github.com/doggybee/mcp-server-memo)** - Manage session summaries and memos for large language models with persistent local storage and version tracking. Store, retrieve, and list detailed session histories to enhance context retention for improved memory capabilities.
+
+- <img src="https://github.com/doobidoo.png?size=120" width="12px" height="12px" /> **[Memory Service](https://github.com/doobidoo/mcp-memory-service)** - Provides semantic memory and persistent storage using ChromaDB for long-term memory retention and semantic search capabilities, enhancing context maintenance across conversations.
+
+- <img src="https://github.com/drdee.png?size=120" width="12px" height="12px" /> **[Memory MCP](https://github.com/drdee/memory-mcp)** - Store and retrieve memories using a command-line interface with a backend powered by SQLite. Manage important information efficiently in applications with memory functionalities.
+
+- <img src="https://github.com/ebailey78.png?size=120" width="12px" height="12px" /> **[Memory Server](https://github.com/ebailey78/mcp-memory)** - Manage and maintain structured memories across chat sessions to enhance project continuity and context. Save and retrieve important information over time, building a comprehensive knowledge base tailored to long-term project workflows.
+
+- <img src="https://github.com/evangstav.png?size=120" width="12px" height="12px" /> **[Memory Server](https://github.com/evangstav/python-memory-mcp-server)** - Manage entities and their relationships within a knowledge graph with strict validation to ensure data consistency. Perform complex queries and maintain observations to enhance application functionality.
+
+- <img src="https://github.com/fourcolors.png?size=120" width="12px" height="12px" /> **[Omi MCP Server](https://github.com/fourcolors/omi-mcp)** - Manage conversations and memories with the Omi API, enabling retrieval, creation, and manipulation of user data for enhanced conversational capabilities.
+
+- <img src="https://github.com/g0t4.png?size=120" width="12px" height="12px" /> **[Memory Management Server](https://github.com/g0t4/mcp-server-memory-file)** - Manage and enhance chat experiences by allowing AI models to remember and recall information during conversations. Effortlessly add, search, delete, and list memories using a simple text file system to improve context retention and response relevance.
+
+- <img src="https://github.com/gannonh.png?size=120" width="12px" height="12px" /> **[Memento](https://github.com/gannonh/memento-mcp)** - Memento is a knowledge graph memory system that facilitates semantic search and contextual recall, enabling LLM applications to manage and retrieve information with temporal awareness. It offers a persistent and adaptive long-term memory structure through ontological entity nodes.
+
+- <img src="https://github.com/gmacev.png?size=120" width="12px" height="12px" /> **[Simple Memory Extension Server](https://github.com/gmacev/Simple-Memory-Extension-MCP-Server)** - Store and recall important information for agents, manage memory through context item and namespace functionalities, and facilitate semantic search capabilities for relevant context retrieval.
+
+- <img src="https://github.com/Guanxinyuan.png?size=120" width="12px" height="12px" /> **[Neo4j MCP Clients & Servers](https://github.com/Guanxinyuan/neo4j)** - Leverage natural language to interact with Neo4j databases and manage knowledge graphs effortlessly. Transform natural language queries into Cypher commands and store knowledge graph memory in Neo4j or a file.
+
+- <img src="https://github.com/Heht571.png?size=120" width="12px" height="12px" /> **[mcptest](https://github.com/Heht571/ops-mcp-server)** - A server toolset for monitoring and managing remote servers, providing functionalities for system checks, service status updates, network diagnostics, and security audits. It includes features for memory information retrieval, system load monitoring, and process management.
+
+- <img src="https://github.com/henryhawke.png?size=120" width="12px" height="12px" /> **[Titan Memory Server](https://github.com/henryhawke/mcp-titan)** - A memory engine designed for LLMs, enabling continuous learning and context management through a transformer-based neural memory system that can predict sequences and maintain state across interactions.
+
+- <img src="https://github.com/ibproduct.png?size=120" width="12px" height="12px" /> **[Memory Cache Server](https://github.com/ibproduct/ib-mcp-cache-server)** - Efficiently caches data between language model interactions to reduce token consumption, enhancing performance and speeding up responses. Integrates seamlessly with any MCP client and language model that uses tokens.
+
+- <img src="https://github.com/identimoji.png?size=120" width="12px" height="12px" /> **[emojikey-server](https://github.com/identimoji/mcp-server-emojikey)** - Manages and persists interaction styles for language models using emoji-based memory keys. Supports setting, retrieving, and maintaining conversation contexts across devices and applications while tracking history.
+
+- <img src="https://github.com/ipospelov.png?size=120" width="12px" height="12px" /> **[Memory Bank Setup Helper](https://github.com/ipospelov/mcp-memory-bank)** - Facilitates the setup and management of a structured Memory Bank for context preservation in AI assistant environments, offering detailed guidance on file structures, template generation, and project summary analysis. Enhances AI context management through organized documentation and relevant content suggestions.
+
+- <img src="https://github.com/itseasy21.png?size=120" width="12px" height="12px" /> **[Persistent Knowledge Graph](https://github.com/itseasy21/mcp-knowledge-graph)** - Enables AI tools to retain and utilize user-specific information across multiple conversations by leveraging a local knowledge graph for persistent memory management.
+
+- <img src="https://github.com/IzumiSy.png?size=120" width="12px" height="12px" /> **[DuckDB Knowledge Graph Memory Server](https://github.com/IzumiSy/mcp-duckdb-memory-server)** - Enhance conversational agents by providing a memory system that retrieves and updates user information using DuckDB for efficient querying of knowledge graphs. Maintain context regarding user preferences and relationships over interactions.
+
+- <img src="https://github.com/j3k0.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory](https://github.com/j3k0/mcp-brain-tools)** - Utilizes a scalable knowledge graph built on Elasticsearch to manage and query large datasets, providing persistent memory for AI systems. Supports complete CRUD operations and offers advanced search capabilities for improved data handling in Model Context Protocol applications.
+
+- <img src="https://github.com/jasonmorganson.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/jasonmorganson/servers)** - Utilizes a local knowledge graph for the creation, management, and retrieval of entities and their relationships, enabling users to maintain context and continuity in conversations across chats.
+
+- <img src="https://github.com/Jktfe.png?size=120" width="12px" height="12px" /> **[myAI Memory Sync](https://github.com/Jktfe/myAImemory-mcp)** - Synchronizes preferences, personal details, and code standards across all Claude interfaces, ensuring consistent updates without manual input. Utilizes a caching system for faster memory-related queries.
+
+- <img src="https://github.com/jlia0.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/jlia0/servers)** - Utilizes a local knowledge graph to enable persistent memory for AI agents, allowing them to create, update, and retrieve personalized user information across chat sessions. Facilitates tailored interactions by managing entities, relations, and observations.
+
+- <img src="https://github.com/joleyline.png?size=120" width="12px" height="12px" /> **[Persistent Memory System](https://github.com/joleyline/mcp-memory-libsql)** - Leverage high-performance vector search and efficient knowledge storage to manage entities and relations. Provides semantic search capabilities and secure token-based authentication for connecting to remote libSQL databases.
+
+- <img src="https://github.com/JovanHsu.png?size=120" width="12px" height="12px" /> **[Neo4j Knowledge Graph Memory Server](https://github.com/JovanHsu/mcp-neo4j-memory-server)** - Store and retrieve information from AI interactions using a Neo4j backend, facilitating advanced graph querying and memory management. Enhances performance and scalability for complex knowledge graph applications.
+
+- <img src="https://github.com/Kirandawadi.png?size=120" width="12px" height="12px" /> **[Volatility3 MCP Server](https://github.com/Kirandawadi/volatility3-mcp)** - Analyze memory dumps to detect malware and perform memory forensics using a natural language interface, making the process accessible to users without specialized knowledge.
+
+- <img src="https://github.com/Kirandawadi.png?size=120" width="12px" height="12px" /> **[Volatility3 MCP Server](https://github.com/Kirandawadi/volatility3-mcp)** - Analyzes memory dumps and detects malware through natural language interactions, facilitating complex memory forensics tasks without specialized knowledge. Automates workflows typically requiring expertise in memory analysis.
+
+- <img src="https://github.com/kiranraathod.png?size=120" width="12px" height="12px" /> **[TaskFlow Memory Server](https://github.com/kiranraathod/taskflow-memory-server)** - Manage tasks with persistent memory to maintain project context and streamline workflow execution using intelligent planning and execution modes. The server integrates seamlessly with FastMCP-compatible clients for enhanced task and context management.
+
+- <img src="https://github.com/leonskenidy.png?size=120" width="12px" height="12px" /> **[Omi API Server](https://github.com/leonskenidy/omi-mcp)** - Provides access to Omi conversations and memories through a standardized MCP interface, enabling reading, creating, and managing these elements efficiently within LLM workflows.
+
+- <img src="https://github.com/Lyoneos.png?size=120" width="12px" height="12px" /> **[CheatEngine Toolkit](https://github.com/Lyoneos/mcp-cheatengine-Cto)** - Connects to CheatEngine instances to perform memory operations, including reading memory and analyzing assembly code. Features a plugin architecture for extending functionalities within the toolkit.
+
+- <img src="https://github.com/mcp-get.png?size=120" width="12px" height="12px" /> **[macOS MCP Server](https://github.com/mcp-get/community-servers)** - Provides macOS-specific system information and operations, including retrieval of CPU, memory, disk, and network details, as well as enabling native macOS notifications.
+
+- <img src="https://github.com/mem0ai.png?size=120" width="12px" height="12px" /> **[Memory Tool](https://github.com/mem0ai/mem0-mcp)** - Store and retrieve user-specific memories to maintain context and make informed decisions based on past interactions using a simple API. Features relevance scoring to enhance memory management with user preferences.
+
+- <img src="https://github.com/movibe.png?size=120" width="12px" height="12px" /> **[Memory Bank](https://github.com/movibe/memory-bank-mcp)** - Manage and interact with structured repositories of information for AI assistants, enabling the storage, retrieval, and tracking of context across sessions to enhance AI capabilities. Supports operational modes for tasks like coding, debugging, and system design.
+
+- <img src="https://github.com/modelcontextprotocol.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/modelcontextprotocol/servers)** - A basic implementation of persistent memory using a local knowledge graph that enables storage and retrieval of user-specific information across chats by defining entities and their relationships.
+
+- <img src="https://github.com/null.png?size=120" width="12px" height="12px" /> **[C.W.K. Pippa Memory Manager](https://github.com/neobundy/cwkCursorPippaMCP)** - Manage and enhance memory capabilities for AI assistants within Cursor IDE, enabling seamless storage, recall, and management of information across conversations for more personalized interactions.
+
+- <img src="https://github.com/neo4j-contrib.png?size=120" width="12px" height="12px" /> **[mcp-neo4j-memory](https://github.com/neo4j-contrib/mcp-neo4j)** - Integrates with the Neo4j graph database to maintain complex relationships between memory nodes, enabling long-term retention and querying of knowledge across multiple conversations. Facilitates the construction of an interconnected knowledge base that acts as an external memory system.
+
+- <img src="https://github.com/oculairmedia.png?size=120" width="12px" height="12px" /> **[Letta MCP Server](https://github.com/oculairmedia/Letta-MCP-server)** - Manage agents and memory blocks within the Letta system, enabling the creation, listing, and attachment of memory blocks to agents while facilitating seamless communication through message sending and response receiving.
+
+- <img src="https://github.com/pinkpixel-dev.png?size=120" width="12px" height="12px" /> **[mem0 Memory System](https://github.com/pinkpixel-dev/mem0-mcp)** - Provides a memory system for AI applications where information can be stored and retrieved across user sessions. It enables personalized interactions by managing user-specific data efficiently.
+
+- <img src="https://github.com/rmtech1.png?size=120" width="12px" height="12px" /> **[TxtAI Assistant](https://github.com/rmtech1/txtai-assistant-mcp)** - Provides semantic memory and search capabilities for AI assistants, enabling the storage, retrieval, and management of text-based memories. Enhances context awareness during conversations through advanced features like tagging and health monitoring.
+
+- <img src="https://github.com/shaneholloman.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/shaneholloman/mcp-knowledge-graph)** - Enables persistent memory for AI models using a local knowledge graph, allowing them to remember user information across chats. Customizable memory paths enhance the management of stored knowledge.
+
+- <img src="https://github.com/null.png?size=120" width="12px" height="12px" /> **[Cursor10x Memory System](https://github.com/sizzlebop/context-mcp)** - A memory system that maintains and retrieves comprehensive project and conversation memory, enabling contextually aware AI assistance. It supports multiple memory types including short-term, long-term, episodic, and semantic memory for enhanced development workflows.
+
+- <img src="https://github.com/spences10.png?size=120" width="12px" height="12px" /> **[LibSQL Memory](https://github.com/spences10/mcp-memory-libsql)** - High-performance vector search and persistent memory system using libSQL, offering efficient knowledge storage and semantic search capabilities. Supports knowledge graph management and secure token-based authentication for accessing local and remote databases.
+
+- <img src="https://github.com/Srish-ty.png?size=120" width="12px" height="12px" /> **[Memory Context Provider Server](https://github.com/Srish-ty/MCP-Testing-interface-for-LLMs)** - Manage user contexts for LLM interactions by storing and retrieving relevant prompts to ensure continuity in conversations. Provides a RESTful API for context management with support for in-memory storage and TypeScript integration.
+
+- <img src="https://github.com/stippi.png?size=120" width="12px" height="12px" /> **[Code Assistant](https://github.com/stippi/code-assistant)** - Assists with code-related tasks by exploring codebases, managing file contents, and providing insights through summarization. Facilitates interactive communication for effective code manipulation.
+
+- <img src="https://github.com/t3ta.png?size=120" width="12px" height="12px" /> **[Memory Bank](https://github.com/t3ta/memory-bank-mcp-server)** - Manage project documentation and context effectively across sessions with structured memory banks in JSON format. Facilitate consistent knowledge retention for AI agents and support multilingual documentation through a powerful API for document management and retrieval.
+
+- <img src="https://github.com/T1nker-1220.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/T1nker-1220/memories-with-lessons-mcp-server)** - This server enables the implementation of persistent memory in AI models through a local knowledge graph, allowing for information retention across chats and an error-learning mechanism via a lesson system.
+
+- <img src="https://github.com/tejpalvirk.png?size=120" width="12px" height="12px" /> **[Student MCP Server](https://github.com/tejpalvirk/contextmanager)** - Track courses, assignments, and exams while optimizing study sessions and monitoring progress through a structured knowledge graph. Manage deadlines and priorities effectively within an academic context.
+
+- <img src="https://github.com/Thelyoncrypt.png?size=120" width="12px" height="12px" /> **[MemGPT](https://github.com/Thelyoncrypt/MemGPT)** - Creates chatbots that maintain self-editing memory with different memory tiers to manage limited LLM context windows. Connects to SQL databases, local files, and documents for seamless conversational AI interactions.
+
+- <img src="https://github.com/tjwells47.png?size=120" width="12px" height="12px" /> **[Chroma MCP Server](https://github.com/tjwells47/chroma-mcp)** - A vector database designed for integrating LLM applications, enabling seamless data retrieval and management through advanced search capabilities and document operations. Supports memory and context enhancement for AI models with efficient embedding functions.
+
+- <img src="https://github.com/tjwells47.png?size=120" width="12px" height="12px" /> **[Memory Server with Qdrant Persistence](https://github.com/tjwells47/mcp-qdrant-memory)** - Leverage a knowledge graph with entities and relations, enabling semantic search capabilities using OpenAI embeddings and Qdrant for data persistence. Supports HTTPS and Docker for streamlined deployment.
+
+- <img src="https://github.com/tomschell.png?size=120" width="12px" height="12px" /> **[Memory MCP Server](https://github.com/tomschell/mcp-long-term-memory)** - Long-term memory storage for LLMs that maintains project context across sessions, enabling efficient retrieval and recall of past interactions and decisions via semantic search. Organizes memories by type, tags, and relationships for streamlined management.
+
+- <img src="https://github.com/tosin2013.png?size=120" width="12px" height="12px" /> **[Memory Cache Server](https://github.com/tosin2013/mcp-memory-cache-server)** - Caches data between interactions with AI language models to reduce token consumption and enhance performance by automatically storing and retrieving frequently accessed data.
+
+- <img src="https://github.com/TrackerXXX23.png?size=120" width="12px" height="12px" /> **[Dev Memory Server](https://github.com/TrackerXXX23/dev_memory_mcp)** - Captures and organizes development context, tracking code changes and user interactions across multiple projects. Provides persistent memory for a more effective coding experience.
+
+- <img src="https://github.com/unibaseio.png?size=120" width="12px" height="12px" /> **[Membase Decentralized Memory Server](https://github.com/unibaseio/membase-mcp)** - Enables AI agents to store and retrieve historical interactions and persistent data on a decentralized memory layer. Facilitates conversation management by saving and fetching messages, ensuring continuity and traceability of interactions.
+
+- <img src="https://github.com/Vic563.png?size=120" width="12px" height="12px" /> **[MemGPT](https://github.com/Vic563/Memgpt-MCP-Server)** - Implements a memory system for large language models (LLMs) with capabilities for chatting, retrieving conversation history, and switching between multiple LLM providers.
+
+- <img src="https://github.com/WhenMoon-afk.png?size=120" width="12px" height="12px" /> **[Memory Server](https://github.com/WhenMoon-afk/claude-memory-mcp)** - Enhances Large Language Models with persistent memory capabilities, allowing for the storage, retrieval, and management of memories across conversations. Integrates with the Claude desktop application, supporting various memory types and semantic search.
+
+- <img src="https://github.com/wuyunmei.png?size=120" width="12px" height="12px" /> **[MemoDB](https://github.com/wuyunmei/momedb-mcp)** - Manage conversation context and a personal knowledge base for AI applications with efficient APIs. Create, update, and query user data while handling dialogue and knowledge management seamlessly.
+
+- <img src="https://github.com/yellnuts.png?size=120" width="12px" height="12px" /> **[Mem0 MCP Server](https://github.com/yellnuts/mcp-mem0)** - Manage long-term memory for AI agents by storing and retrieving memories efficiently with a lightweight Python-based solution. Customize and extend memory capabilities easily through a robust template designed for integration.
+
+- <img src="https://github.com/yodakeisuke.png?size=120" width="12px" height="12px" /> **[Knowledge Graph Memory Server](https://github.com/yodakeisuke/mcp-memory-domain-knowledge)** - Persistently remembers user information across chats using a local knowledge graph, allowing connections between different entities and their relationships. Facilitates the storage and retrieval of observations linked to specific entities for improved contextual interactions.
+
+- <img src="https://github.com/zacharyliner1xds.png?size=120" width="12px" height="12px" /> **[Sequential Thinking Server](https://github.com/zacharyliner1xds/my-sequential-thinking-mcp)** - Facilitates structured sequential thinking by breaking down complex problems into logical steps, validating reasoning chains, and visualizing thinking pathways. Integrates with a Memory Bank for managing and storing reasoning patterns to enhance problem-solving workflows.
+
+- <img src="https://github.com/zannyonear1h1.png?size=120" width="12px" height="12px" /> **[Sequential Thinking Server](https://github.com/zannyonear1h1/my-sequential-thinking-mcp-server)** - Facilitates structured sequential thinking by breaking down complex problems into logical steps, managing reasoning chains, and visualizing thinking pathways. Integrates with a Memory Bank for storing and retrieving thought processes, while providing tools for reasoning validation and analysis.

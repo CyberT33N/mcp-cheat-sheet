@@ -4,37 +4,37 @@ This plan outlines the processing steps for the content chunks.
 
 ## Chunks to Process
 
-- [x] .tmp/chunk_00
-- [x] .tmp/chunk_01
-- [x] .tmp/chunk_02
+- [x] .tmp/chunk_00.Mmd
+- [x] .tmp/chunk_01.md
+- [x] .tmp/chunk_02.md
 - [x] .tmp/chunk_03.md
-- [ ] .tmp/chunk_04
-- [ ] .tmp/chunk_05
-- [ ] .tmp/chunk_06
-- [ ] .tmp/chunk_07
-- [ ] .tmp/chunk_08
-- [ ] .tmp/chunk_09
-- [ ] .tmp/chunk_10
-- [ ] .tmp/chunk_11
-- [ ] .tmp/chunk_12
-- [ ] .tmp/chunk_13
-- [ ] .tmp/chunk_14
-- [ ] .tmp/chunk_15
-- [ ] .tmp/chunk_16
-- [ ] .tmp/chunk_17
-- [ ] .tmp/chunk_18
-- [ ] .tmp/chunk_19
-- [ ] .tmp/chunk_20
-- [ ] .tmp/chunk_21
-- [ ] .tmp/chunk_22
-- [ ] .tmp/chunk_23
-- [ ] .tmp/chunk_24
-- [ ] .tmp/chunk_25
-- [ ] .tmp/chunk_26
-- [ ] .tmp/chunk_27
-- [ ] .tmp/chunk_28
-- [ ] .tmp/chunk_29
-- [ ] .tmp/chunk_30
-- [ ] .tmp/chunk_31
-- [ ] .tmp/chunk_32
-- [ ] .tmp/chunk_33 
+- [x] .tmp/chunk_04.md
+- [x] .tmp/chunk_05.md
+- [x] .tmp/chunk_06.md
+- [x] .tmp/chunk_07.md
+- [x] .tmp/chunk_08.md
+- [ ] .tmp/chunk_09.md
+- [ ] .tmp/chunk_10.md
+- [ ] .tmp/chunk_11.md
+- [ ] .tmp/chunk_12.md
+- [ ] .tmp/chunk_13.md
+- [ ] .tmp/chunk_14.md
+- [ ] .tmp/chunk_15.md
+- [ ] .tmp/chunk_16.md
+- [ ] .tmp/chunk_17.md
+- [ ] .tmp/chunk_18.md
+- [ ] .tmp/chunk_19.md
+- [ ] .tmp/chunk_20.md
+- [ ] .tmp/chunk_21.md
+- [ ] .tmp/chunk_22.md
+- [ ] .tmp/chunk_23.md
+- [ ] .tmp/chunk_24.md
+- [ ] .tmp/chunk_25.md
+- [ ] .tmp/chunk_26.md
+- [ ] .tmp/chunk_27.md
+- [ ] .tmp/chunk_28.md
+- [ ] .tmp/chunk_29.md
+- [ ] .tmp/chunk_30.md
+- [ ] .tmp/chunk_31.md
+- [ ] .tmp/chunk_32.md
+- [ ] .tmp/chunk_33.md 
