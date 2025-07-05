@@ -21,4 +21,6 @@ Diese MCP-Server ermöglichen die Überwachung von Systemen, Anwendungen und Inf
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) 📇 ☁️ - Open-source tool for collaborative editing, versioning, evaluating, and releasing prompts
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🐍 ☁️ - Provides access to OpenTelemetry traces and metrics through Logfire
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 📇 ☁️ - Query and interact with kubernetes environments monitored by Metoro
-- [MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Interact with your crash reporting and real using monitoring data on your Raygun account 
+- [MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Interact with your crash reporting and real using monitoring data on your Raygun account
+- [isitdown/mcp-server](https://github.com/isitdown/mcp-server) 📇 ☁️ - IsItDown server for website availability monitoring and status checking
+- [umami-analytics/mcp-server](https://github.com/umami-analytics/mcp-server) 📇 ☁️ - Umami Analytics server for privacy-focused website analytics and reporting

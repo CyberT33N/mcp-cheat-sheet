@@ -1,0 +1,304 @@
+# Abfahrtsplan für Chunk 04
+
+Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_04.md` in das Wissens-Repository.
+
+- [ ] **1. Ziel-Datei: `mcp-servers/search.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Scholarly Article Search Server"
+          - **Quelle (Chunk 04, Zeilen):** 2-5
+        - **Block-Name:** "Fetch MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 7-10
+        - **Block-Name:** "Mamont MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 12-15
+        - **Block-Name:** "DuckDuckGo Search"
+          - **Quelle (Chunk 04, Zeilen):** 19-22
+        - **Block-Name:** "duckduckgo-search MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 28-31
+        - **Block-Name:** "Twikit Twitter Search"
+          - **Quelle (Chunk 04, Zeilen):** 33-36
+        - **Block-Name:** "ZoomEye MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 38-41
+        - **Block-Name:** "YouTube MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 43-46
+        - **Block-Name:** "Pixabay Image Search"
+          - **Quelle (Chunk 04, Zeilen):** 52-55
+        - **Block-Name:** "Fetch Server"
+          - **Quelle (Chunk 04, Zeilen):** 57-60
+        - **Block-Name:** "Baike Render"
+          - **Quelle (Chunk 04, Zeilen):** 62-65
+        - **Block-Name:** "Simple Website Fetching Tool"
+          - **Quelle (Chunk 04, Zeilen):** 67-69
+
+- [ ] **2. Ziel-Datei: `mcp-servers/knowledge-memory.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Epoll-based HTTP Server"
+          - **Quelle (Chunk 04, Zeilen):** 73-76
+        - **Block-Name:** "Memory Bank"
+          - **Quelle (Chunk 04, Zeilen):** 78-81
+        - **Block-Name:** "Optimized Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 87-90
+        - **Block-Name:** "IaC Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 92-95
+        - **Block-Name:** "Memory Bank Server"
+          - **Quelle (Chunk 04, Zeilen):** 97-99
+        - **Block-Name:** "Memory Box MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 101-104
+        - **Block-Name:** "Figma MCP Server with Chunking"
+          - **Quelle (Chunk 04, Zeilen):** 106-109
+        - **Block-Name:** "Cursor10x Memory System"
+          - **Quelle (Chunk 04, Zeilen):** 111-114
+        - **Block-Name:** "My Apple Remembers"
+          - **Quelle (Chunk 04, Zeilen):** 116-119
+        - **Block-Name:** "Basic Memory"
+          - **Quelle (Chunk 04, Zeilen):** 121-124
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 126-129
+        - **Block-Name:** "Human Loop Server"
+          - **Quelle (Chunk 04, Zeilen):** 131-134
+        - **Block-Name:** "Volatility MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 136-139
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 141-144
+        - **Block-Name:** "MemoryMesh"
+          - **Quelle (Chunk 04, Zeilen):** 146-149
+        - **Block-Name:** "Outline Document Search Server"
+          - **Quelle (Chunk 04, Zeilen):** 151-154
+        - **Block-Name:** "Chroma MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 156-159
+        - **Block-Name:** "Long-Term Memory for AI Agents"
+          - **Quelle (Chunk 04, Zeilen):** 161-164
+        - **Block-Name:** "Claude Server"
+          - **Quelle (Chunk 04, Zeilen):** 166-169
+        - **Block-Name:** "Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 171-174
+        - **Block-Name:** "Memory Server with Knowledge Graph"
+          - **Quelle (Chunk 04, Zeilen):** 176-179
+        - **Block-Name:** "Memory Server with Qdrant Persistence"
+          - **Quelle (Chunk 04, Zeilen):** 181-184
+        - **Block-Name:** "Knowledge Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 186-189
+        - **Block-Name:** "Memory Bank Server"
+          - **Quelle (Chunk 04, Zeilen):** 191-194
+        - **Block-Name:** "Memo Server for Session Memory Management"
+          - **Quelle (Chunk 04, Zeilen):** 198-201
+        - **Block-Name:** "Memory Service"
+          - **Quelle (Chunk 04, Zeilen):** 203-206
+        - **Block-Name:** "Memory MCP"
+          - **Quelle (Chunk 04, Zeilen):** 208-211
+        - **Block-Name:** "Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 213-216
+        - **Block-Name:** "Omi MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 220-223
+        - **Block-Name:** "Memory Management Server"
+          - **Quelle (Chunk 04, Zeilen):** 225-228
+        - **Block-Name:** "Memento"
+          - **Quelle (Chunk 04, Zeilen):** 230-233
+        - **Block-Name:** "Simple Memory Extension Server"
+          - **Quelle (Chunk 04, Zeilen):** 235-238
+        - **Block-Name:** "Neo4j MCP Clients & Servers"
+          - **Quelle (Chunk 04, Zeilen):** 240-243
+        - **Block-Name:** "mcptest"
+          - **Quelle (Chunk 04, Zeilen):** 245-248
+        - **Block-Name:** "Titan Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 250-253
+        - **Block-Name:** "Memory Cache Server"
+          - **Quelle (Chunk 04, Zeilen):** 255-258
+        - **Block-Name:** "emojikey-server"
+          - **Quelle (Chunk 04, Zeilen):** 260-263
+        - **Block-Name:** "Memory Bank Setup Helper"
+          - **Quelle (Chunk 04, Zeilen):** 265-268
+        - **Block-Name:** "Persistent Knowledge Graph"
+          - **Quelle (Chunk 04, Zeilen):** 270-273
+        - **Block-Name:** "DuckDB Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 275-278
+        - **Block-Name:** "Knowledge Graph Memory"
+          - **Quelle (Chunk 04, Zeilen):** 280-283
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 285-288
+        - **Block-Name:** "myAI Memory Sync"
+          - **Quelle (Chunk 04, Zeilen):** 290-293
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 295-298
+        - **Block-Name:** "Persistent Memory System"
+          - **Quelle (Chunk 04, Zeilen):** 300-303
+        - **Block-Name:** "Neo4j Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 305-308
+        - **Block-Name:** "Volatility3 MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 310-313
+        - **Block-Name:** "Volatility3 MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 315-318
+        - **Block-Name:** "TaskFlow Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 320-323
+        - **Block-Name:** "Omi API Server"
+          - **Quelle (Chunk 04, Zeilen):** 325-328
+        - **Block-Name:** "CheatEngine Toolkit"
+          - **Quelle (Chunk 04, Zeilen):** 330-333
+        - **Block-Name:** "macOS MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 335-338
+        - **Block-Name:** "Memory Tool"
+          - **Quelle (Chunk 04, Zeilen):** 340-343
+        - **Block-Name:** "Memory Bank"
+          - **Quelle (Chunk 04, Zeilen):** 345-348
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 350-353
+        - **Block-Name:** "C.W.K. Pippa Memory Manager"
+          - **Quelle (Chunk 04, Zeilen):** 355-358
+        - **Block-Name:** "mcp-neo4j-memory"
+          - **Quelle (Chunk 04, Zeilen):** 360-363
+        - **Block-Name:** "Letta MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 365-368
+        - **Block-Name:** "mem0 Memory System"
+          - **Quelle (Chunk 04, Zeilen):** 370-373
+        - **Block-Name:** "TxtAI Assistant"
+          - **Quelle (Chunk 04, Zeilen):** 375-378
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 380-383
+        - **Block-Name:** "Cursor10x Memory System"
+          - **Quelle (Chunk 04, Zeilen):** 385-388
+        - **Block-Name:** "LibSQL Memory"
+          - **Quelle (Chunk 04, Zeilen):** 390-393
+        - **Block-Name:** "Memory Context Provider Server"
+          - **Quelle (Chunk 04, Zeilen):** 395-398
+        - **Block-Name:** "Code Assistant"
+          - **Quelle (Chunk 04, Zeilen):** 400-403
+        - **Block-Name:** "Memory Bank"
+          - **Quelle (Chunk 04, Zeilen):** 405-408
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 410-413
+        - **Block-Name:** "Student MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 415-418
+        - **Block-Name:** "MemGPT"
+          - **Quelle (Chunk 04, Zeilen):** 420-423
+        - **Block-Name:** "Chroma MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 425-428
+        - **Block-Name:** "Memory Server with Qdrant Persistence"
+          - **Quelle (Chunk 04, Zeilen):** 430-433
+        - **Block-Name:** "Memory MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 435-438
+        - **Block-Name:** "Memory Cache Server"
+          - **Quelle (Chunk 04, Zeilen):** 440-443
+        - **Block-Name:** "Dev Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 445-448
+        - **Block-Name:** "Membase Decentralized Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 450-453
+        - **Block-Name:** "MemGPT"
+          - **Quelle (Chunk 04, Zeilen):** 455-458
+        - **Block-Name:** "Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 460-463
+        - **Block-Name:** "MemoDB"
+          - **Quelle (Chunk 04, Zeilen):** 465-468
+        - **Block-Name:** "Mem0 MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 470-473
+        - **Block-Name:** "Knowledge Graph Memory Server"
+          - **Quelle (Chunk 04, Zeilen):** 475-478
+        - **Block-Name:** "Sequential Thinking Server"
+          - **Quelle (Chunk 04, Zeilen):** 480-483
+        - **Block-Name:** "Sequential Thinking Server"
+          - **Quelle (Chunk 04, Zeilen):** 485-488
+- [ ] **3. Ziel-Datei: `mcp-servers/browser-automation.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Browserbase MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 492-495
+        - **Block-Name:** "302AI Browser Automation Server"
+          - **Quelle (Chunk 04, Zeilen):** 497-500
+        - **Block-Name:** "Make MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 502-505
+        - **Block-Name:** "Computer Control"
+          - **Quelle (Chunk 04, Zeilen):** 507-510
+        - **Block-Name:** "URL2SNAP"
+          - **Quelle (Chunk 04, Zeilen):** 512-515
+        - **Block-Name:** "Playwright Automation Server"
+          - **Quelle (Chunk 04, Zeilen):** 517-520
+        - **Block-Name:** "Multi-Service MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 522-525
+        - **Block-Name:** "Configurable Puppeteer Server"
+          - **Quelle (Chunk 04, Zeilen):** 527-530
+        - **Block-Name:** "browser-tools-mcp"
+          - **Quelle (Chunk 04, Zeilen):** 532-535
+        - **Block-Name:** "Playwright Browser Automation Server"
+          - **Quelle (Chunk 04, Zeilen):** 537-540
+        - **Block-Name:** "Scraper.is"
+          - **Quelle (Chunk 04, Zeilen):** 542-545
+        - **Block-Name:** "Scraper.is MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 547-550
+        - **Block-Name:** "Grasp Browser Agent"
+          - **Quelle (Chunk 04, Zeilen):** 552-555
+        - **Block-Name:** "LinkedIn Browser"
+          - **Quelle (Chunk 04, Zeilen):** 557-560
+        - **Block-Name:** "Selenium WebDriver Automation"
+          - **Quelle (Chunk 04, Zeilen):** 562-565
+        - **Block-Name:** "RAG Web Browser Server"
+          - **Quelle (Chunk 04, Zeilen):** 567-570
+        - **Block-Name:** "Playwright MCP"
+          - **Quelle (Chunk 04, Zeilen):** 572-575
+        - **Block-Name:** "Browser Automation Agent"
+          - **Quelle (Chunk 04, Zeilen):** 577-580
+        - **Block-Name:** "Playwright"
+          - **Quelle (Chunk 04, Zeilen):** 582-585
+        - **Block-Name:** "Strategy Role-Playing Game Server"
+          - **Quelle (Chunk 04, Zeilen):** 587-590
+        - **Block-Name:** "Gru Sandbox"
+          - **Quelle (Chunk 04, Zeilen):** 592-595
+        - **Block-Name:** "Remote MacOs Use"
+          - **Quelle (Chunk 04, Zeilen):** 597-600
+        - **Block-Name:** "Playwright Server"
+          - **Quelle (Chunk 04, Zeilen):** 602-605
+        - **Block-Name:** "Web Browser"
+          - **Quelle (Chunk 04, Zeilen):** 607-610
+        - **Block-Name:** "Browser Automation"
+          - **Quelle (Chunk 04, Zeilen):** 612-615
+        - **Block-Name:** "BrowserStack Test Platform Server"
+          - **Quelle (Chunk 04, Zeilen):** 617-620
+        - **Block-Name:** "Browserbase"
+          - **Quelle (Chunk 04, Zeilen):** 622-625
+        - **Block-Name:** "Stagehand"
+          - **Quelle (Chunk 04, Zeilen):** 627-630
+        - **Block-Name:** "BrowserCat MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 632-635
+        - **Block-Name:** "CodingBaby Browser-Use MCP"
+          - **Quelle (Chunk 04, Zeilen):** 637-640
+        - **Block-Name:** "Xiaohongshu Auto Comment Tool"
+          - **Quelle (Chunk 04, Zeilen):** 642-645
+        - **Block-Name:** "NutJS Windows Control"
+          - **Quelle (Chunk 04, Zeilen):** 647-650
+        - **Block-Name:** "Control Server"
+          - **Quelle (Chunk 04, Zeilen):** 652-655
+        - **Block-Name:** "BPB Panel"
+          - **Quelle (Chunk 04, Zeilen):** 657-660
+        - **Block-Name:** "BrowserTools"
+          - **Quelle (Chunk 04, Zeilen):** 662-665
+        - **Block-Name:** "Web Search Server"
+          - **Quelle (Chunk 04, Zeilen):** 667-670
+        - **Block-Name:** "Cloudflare Playwright"
+          - **Quelle (Chunk 04, Zeilen):** 672-675
+        - **Block-Name:** "MCP Chrome Google Search Tool"
+          - **Quelle (Chunk 04, Zeilen):** 677-680
+        - **Block-Name:** "Browser Use MCP Server"
+          - **Quelle (Chunk 04, Zeilen):** 682-685
+        - **Block-Name:** "KKJSBridge"
+          - **Quelle (Chunk 04, Zeilen):** 687-690
+        - **Block-Name:** "Puppeteer"
+          - **Quelle (Chunk 04, Zeilen):** 692-695
+        - **Block-Name:** "BrowserTools"
+          - **Quelle (Chunk 04, Zeilen):** 697-700
+        - **Block-Name:** "Browser Use (used by Deploya.dev)"
+          - **Quelle (Chunk 04, Zeilen):** 702-705
+        - **Block-Name:** "MCP Servers"
+          - **Quelle (Chunk 04, Zeilen):** 707-710
+
+- [ ] **4. Ziel-Datei: `mcp-servers/other-tools.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Personal Assistant Agent"
+          - **Quelle (Chunk 04, Zeilen):** 17-20
+
+- [ ] **5. Ziel-Datei: `mcp-servers/developer-tools.md`**
+    - **AKTION:** Füge die folgenden Informationsblöcke in die Zieldatei ein. Stelle sicher, dass keine Duplikate hinzugefügt werden.
+    - **BLOCKS:**
+        - **Block-Name:** "Jianshu"
+          - **Quelle (Chunk 04, Zeilen):** 24-27
+        - **Block-Name:** "Web Development Tools Server"
+          - **Quelle (Chunk 04, Zeilen):** 48-51 

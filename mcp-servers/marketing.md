@@ -21,4 +21,8 @@ Diese MCP-Server bieten Integrationen mit Marketing-Plattformen für Kampagnenma
 - [evelyndooley/mcp-server-facebook-ads](https://github.com/evelyndooley/mcp-server-facebook-ads) 📇 ☁️ - Facebook Ads integration for social media advertising
 - [marketingfanny/mcp-server-semrush](https://github.com/marketingfanny/mcp-server-semrush) 🐍 ☁️ - SEMrush integration for SEO and competitive analysis
 - [mcp-server-optimize/mcp-server-ab-testing](https://github.com/mcp-server-optimize/mcp-server-ab-testing) 📇 ☁️ - A/B testing platform for conversion optimization
-- [adespresso/mcp-server-adtracking](https://github.com/adespresso/mcp-server-adtracking) 🐍 ☁️ - Cross-platform ad tracking and performance metrics 
+- [adespresso/mcp-server-adtracking](https://github.com/adespresso/mcp-server-adtracking) 🐍 ☁️ - Cross-platform ad tracking and performance metrics
+- [linkedin/mcp-server](https://github.com/linkedin/mcp-server) 📇 ☁️ - LinkedIn MCP Server for professional networking and B2B marketing automation
+- [job-scraper/mcp-server](https://github.com/job-scraper/mcp-server) 📇 ☁️ - Job scraper MCP Server for job market analysis and recruitment intelligence
+- [producthunt/mcp-server](https://github.com/producthunt/mcp-server) 📇 ☁️ - Product Hunt Server for product discovery and launch tracking
+- [app-market-intelligence/mcp-server](https://github.com/app-market-intelligence/mcp-server) 📇 ☁️ - App Market Intelligence for mobile app analytics and competitive research

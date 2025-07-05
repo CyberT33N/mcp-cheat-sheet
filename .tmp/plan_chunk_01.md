@@ -1,0 +1,56 @@
+# Abfahrtsplan für Chunk 01
+
+Dieser Plan listet die Schritte zur Integration des Inhalts aus `.tmp/chunk_01.md` in das Wissens-Repository.
+
+- [x] **1. Ziel-Datei: `mcp-servers/search/index.md`**
+    - Füge die folgenden Server unter der Überschrift "Verfügbare Server" ein:
+        - Fetch Server
+        - Web Search Server
+        - Google Search
+        - MCP Chrome Google Search Tool
+        - Perplexity Advanced MCP
+        - Search Stock News
+        - OpenAI WebSearch Server
+        - Higress AI-Search MCP Server
+        - DuckDuckGo Search API
+        - Parquet MCP Server (Search)
+        - SearXNG MCP Server
+        - Baidu Search Server
+        - Brave-Gemini Research
+        - Azure AI Search Integration
+        - MCP Server (Meilisearch)
+        - Meilisearch API Server
+        - Search1API MCP Server
+        - Search Service
+        - Perplexity AI Server
+        - Local Web Search Server
+        - Web Search Tool
+        - Serper Google Search Server
+        - Exa MCP Server
+        - DuckDuckGo Search Plugin
+        - Google Search Server
+        - PubMedSearch
+        - Deep Research
+        - arXiv MCP Server
+        - OpenSearch MCP Server
+        - SearXNG Server
+        - SerpApi MCP Server
+        - Naver Search
+        - Tavily Server
+        - Perplexity Server
+        - Crossref MCP Server
+        - bioRxiv MCP Server
+        - medRxiv MCP Server
+        - Google Scholar MCP Server
+        - PubMed MCP Server
+        - Sci-Hub MCP Server
+        - Semantic Scholar Server
+        - Scholarly Article Search Server
+        - NIH RePORTER
+        - Elasticsearch semantic search tool
+        - Kakao API Server (Search related part)
+        - paperpal
+        - Naver Search
+        - Jina AI
+        - Jina AI MCP Server
+- [x] **2. Ziel-Datei: `mcp-servers/website-crawling.md`**

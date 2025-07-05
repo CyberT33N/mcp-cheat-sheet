@@ -4,10 +4,10 @@ This plan outlines the processing steps for the content chunks.
 
 ## Chunks to Process
 
-- [ ] .tmp/chunk_00
-- [ ] .tmp/chunk_01
-- [ ] .tmp/chunk_02
-- [ ] .tmp/chunk_03
+- [x] .tmp/chunk_00
+- [x] .tmp/chunk_01
+- [x] .tmp/chunk_02
+- [x] .tmp/chunk_03.md
 - [ ] .tmp/chunk_04
 - [ ] .tmp/chunk_05
 - [ ] .tmp/chunk_06
